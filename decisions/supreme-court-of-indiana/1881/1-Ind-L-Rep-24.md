@@ -1,0 +1,32 @@
+---
+court: "Supreme Court of Indiana"
+decided: "1881-02-25"
+citations: ["1 Ind. L. Rep. 24"]
+reporter: "ind-l-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Theodore Pfeiffer, et al., v. Balthasar Snyder."]
+source_url: "https://static.case.law/ind-l-rep/1/cases/0024-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6680055
+cites_cases: ["54 Ind., 578", "56 Ind., 34", "59 Ind., 345", "60 Ind., 310", "67 Ind., 485"]
+---
+
+# Pfeiffer v. Snyder
+
+## Majority (Mr. Justice Howk.)
+
+Opinion of the court by
+Mr. Justice Howk.
+This was a suit by the appellee against the appellants to have a certain deed and mortgage described in the complaint declared null and void, and that the laud therein mentioned might be subjected to the payment of a certain judgment in ap-pellee’s favor. The joint demurrer of all the appellants, and the separate demurrer of the appellant Joseph Hotap, to appellee’s complaint, for the alleged insufficiency of the facts therein to constitute a cause of action, were severally overruled by the court, and their exceptions were duly saved to these decisions. The cause having been put at issue was tried by a jury, and a verdict was returned for the appellee; and the appellants’ motion for a new trial having been overruled, and their exceptions saved to this ruling, the court rendered judgment for the appel-lee, as prayed for in his complaint.
+In this court the appellants have assigned as errors the following decisions of the circuit court:
+1. In overruling their demurrer to appellee’s complaint;
+2. In overruling the separate demurrer of appellant Hotap to the complaint;
+8. In sustaining appellee’s demurrer to the first paragraph of the separate answer of the appellant, Theodore Pfeifler; and
+4. In overruling their motion for a new trial.
+1. The appellee’s complaint in this case appears to have been filed in the circuit court on the 9th day of March, 1877. The object of the action was to procure a judgment of the court declaring that a certain deed executed by one Adam Snyder, sr., on the 10th day of March, 1877, and conveying to the appellant, Theodore Pfeifer, certain real estate in Jennings county, and a certain mortgage given by said Pfeiffer and his wife to Joseph Hotap on the same land on the 13th day of March, 1871, were fraudulent and void, as against the appellee as creditor, and aa against the other creditors of said Adam Snyder, sr. It was alleged in appellee’s complaint that before and at the time of the execution of the deed, the said Adam Snyder, sr., as the surety of his son, Adam Snyder, jr., was indebted to the appellee in the amount due on a certain promissory note dated January 1st, 1864; that on the 7th day of April, 1871, after the execution of the deed and mortgage, the appellee had recovered a judgment on said note, in the Jennings Circuit Court, against said Adam Snyder, jr., as principal, and said Adam Snyder, sr., as surety, for the sum of $988.13; and that the said judgment was due and wholly unpaid.
+The appellee’s counsel has not favored this court with any brief of this cause, or any argument in support of any Of the decisions of the trial court complained of as erroneous by the appellants. In his brief of this cause the appellants’ counsel insists that the complaint is fatally defective in not alleging that at the time of the conveyance, and at the time of the bringing of this suit the grantor had no other property subject to execution out of which the appellee could have made his judgment. It may be regarded as settled, we think, by the decisions of thia court, that, in a suit such as the one at bar, it is necessary that the plaintiff should allege in his complaint, and prove on the trial, that at the time the conveyance, complained of as fraudulent, was executed, the grantor therein and debtor did not have other property left, subject to execution, sufficient for the payment of all his then existing debts. Sherman v. Hogland, 54 Ind., 578: Evans v. Hamilton, 56 Ind., 34; Homme v. Romine, 59 Ind., 345; Price v. Sanders, 60 Ind., 310; Hardy v. Mitchell, 67 Ind., 485.
+On the point under consideration, the only allegation in the appellee’s complaint in this case is the following: “ That at the date of the execution of said note, and thereafter until his death, the said Adam Snyder owned no property of any consequence, except the following real estate, in Jennings county, Indiana, to-witand here follows a description of the real estate which he conveyed to the appellant, Theodore Pfeifter, by the deed alleged to be fraudulent. So far as time is concerned, the allegation above quoted avers the time when the deed in question was executed, and might be deemed to be sufficient. But it can not be said, we think, with any degree of legal accuracy, that the allegation that “ the said Adam Snyder, sr., owned no property of any consequence,” is fairly the equivalent of an allegation that he owned no other property subject to execution sufficient tor the payment of all his debts. The expression, “ of any consequence,” as qualifying property, has a relative and, of course, an indefinite and uncertain meaning. Property much more than sufficient to pay all the debts of Adam Snyder, sr., would be regarded by the millionaire as “ no property of any consequence,” while the same property might be regarded by persons of more limited means as constituting a fortune. The allegation above quoted, it seems to us, is entirely too vague and uncertain in its meaning to comply with the rules of good pleading, or to fulfill the requirements of the law in a complaint in such a case as the one now before us.
+We are of the opinion, therefore, that the appellants’ objections to the complaint in this case are well taken, and that their demurrer thereto, for the want of sufficient facts, ought to have been sustained.
+This conclusion in regard to the insufficiency of the appel-lee’s complaint renders it unnecessary for us now to consider or decide any of the questions arising under the other errors assigned by the appellants. These other errors, conceding them to be errors, may not occur again in the progress of this cause.
+The judgment is reversed at the appellee’s costs, and the cause is remanded with instructions to sustain the demurrer to the complaint, and for further proceedings not inconsistent with this opinion.
