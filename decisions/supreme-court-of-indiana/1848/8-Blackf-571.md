@@ -1,0 +1,30 @@
+---
+court: "Supreme Court of Indiana"
+decided: "1848-01-25"
+citations: ["8 Blackf. 571"]
+reporter: "blackf"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ellison v. Dove."]
+source_url: "https://static.case.law/blackf/8/cases/0571-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1380848
+---
+
+# Ellison v. Dove
+
+## Majority (Smith, J. Per Curiam.)
+
+Smith, J.
+Action of assumpsit by Dove against Ellison. The declaration contains two counts. The first alleges a special contract by which Dove was to give Ellison a wagon of the value of 48 dollars, for which the latter was to break up for Dove sixteen acres of new ground on or before the 1st of August, 1845; and that the wagon was delivered, but Ellison refused to break up the ground. The second count ■is for the value of a wagon sold and delivered.
+Ellison filed three pleas. ' 1. The general issue; 2. That Dove agreed to clear off the logs and brush from said sixteen acres of new ground, and prepare the land to be broken up, before Ellison-wzs to break it; and that Dove did not,at any time before the commencement of the' suit, so prepare said ground; 3. That, at the time agreed upon, Ellison was ready with his team on the ground to be broken up, and then- and . there offered to do such breaking, and has always since been ready and willing to do the same, but that Dove had not the ground cleared and ready for breaking at any time before the commencement of the suit, &c. The first plea was to both counts, the second and third to the first count only.
+Issue was joined upon these pleas; trial by jury; and verdict for the plaintiff, assessing his damages at 80 dollars. The defendant moved for a new trial, but his motion was overruled. The plaintiff then remitted 32 dollars of the damages assessed by the jury, and judgment was rendered for the residue. The defendant then appealed to this Court. The suit was originally commenced before a justice of the peace, and was appealed to the Circuit Court. '
+The alleged errors consist in the admission of testimony, and in the instructions given by the Court.
+The evidence is not set out; but it is stated in the bill of exceptions, that, on the trial, the plaintiff was permitted to prove that it was worth three dollars per acre to break up the sixteen acres of land in the declaration mentioned, and that it was a damage of two dollars per acre to the plaintiff in not having the ground broken to put in wheat. To this last-mentioned evidence as to the damage sustained in not having the gi-ound broken, the defendant objected; but it was permitted to go to the jury. It is unnecessary, however, to examine the question thus raised, as the plaintiff remitted the damages assessed over and above the value of the labour required to break up the land, as proved at three dollars per acre.
+The instructions complained of are to the effect, that if it appeared from the evidence that no particular piece of land was designated by the parties, at the time of the contract or afterwards, on which the labour was to be done, Dove had a right to select any tract upon his farm, not exceeding the requisite quantity, and if the land was prepared for ploughing, and Ellison, on being requested to break it, refused to do so, Dove should recover the price of his wagon.
+It is contended that this instruction is erroneous, as Ellison might have been thus compelled to break up land requiring more than an average proportion of labour. The first part of the instruction is, however, correct. See Chitt. on Cont. 6th Am. ed. 727, note 1. If the piece of land designated, was. of such a character as to afford a reasonable excuse for the refusal of Ellison to plough it, that fact should hav'e been shown by the latter; and as the evidence is not before us, we must presume the general rule thus laid down was applicable to the facts of the case. As the instruction refers to the special contract set out in the first count of the' declaration, it was not strictly correct to say that on the breach of it by Ellison, Dove should recover the price of his wagon. The proper measure of the damages was the value of the labour required to break up the land. See Strutt v. Farlar, Eng. Exch. 1847, reported in the West. Law Jour. for Aug., 1847, p. 513 (). But as the record shows that the judgment was rendered for the exact amount, which it was proved the labour that Ellison agreed to perform was worth, it is clear that the jury was not misled by that part of the instruction.
+A. Ellison, for the appellant.
+J. B. Howe, for the appellee.
+Per Curiam.
+The judgment is affirmed with 5 per cent, damages and costs.
+(1) The ease cited in the text isas follows: The plaintiff having recovered judgment against one W. F., the defendant promised that if the plaintiff would forbear to sue out execution on the judgment until a certain day, she would, on or before that day, erect a good and substantial house and cause a lease of it to be granted to the plaintiff; such lease, when granted, to be in satisfaction of the judgment. In an action against the defendant for the breach of this contract (the plaintiff having performed his part), it was held that the value of the lease was the measure of damages. Parke, B., said: “ The consideration is the forbearance to sue out execution against the original debtor for a considerable time, in consideration of which the defendant undertakes to pay the debt. She agrees to purchase that favour to tho original defendant at the price of the lease of a house; and she has got all that she bargained for as the consideration of the tiling she was to do. She must therefore pay the price, and place the plaintiff in the same situation as if she had performed her promise. If it is to be paid in money, she must pay it; if by the delivery of a thing of ascertained value, that value is the measure of damages.” This case (Strutt v. Farlar) is now reported in 16 Mees. & Welsh. 249.
