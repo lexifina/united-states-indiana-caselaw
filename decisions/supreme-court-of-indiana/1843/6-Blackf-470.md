@@ -1,0 +1,25 @@
+---
+court: "Supreme Court of Indiana"
+decided: "1843-11"
+citations: ["6 Blackf. 470"]
+reporter: "blackf"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Burton v. Tannehill."]
+source_url: "https://static.case.law/blackf/6/cases/0504-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6123626
+---
+
+# Burton v. Tannehill
+
+## Majority (Sublivax, J.)
+
+Sublivax, J.
+Trover by Tannehill against Burton. The facts vero that one Wermeag was indebted to the defendant *in error in the sum of $780, for which he had given his notes dated November the 28th, 1838, payable as follows, viz., $200, January the 1st, 1839; $100, June the 1st, 1839; $100, eight months after date; and $380, twelve months after date. To secure the payment of said notes as they should severally become due, he mortgaged to the defendant in error a wagon, six horses, &c. The mortgage contained a stipulation that the property should, “in the meantime,” remain in the possession of the mortgagor. The mortgage was recorded within the time prescribed by the statute. In the month of April following, Wernwag being indebted also to the plaintiff in error in a large amount, mortgaged the same property to him, and delivered to him the possession of it. After the delivery, and before the 21st of May next, the plaintiff in error sold the property for his own use. There was abundant evidence to prove that Burton knew of the mortgage to Tannehill, and there was evidence also from which it might be fairly inferred, that he sold the property to prevent it from falling into Tannehill’s hands. A. part of the debt from ITern-wag to Tannehill, due the 1st of January, 1839, was paid; for the residue, being $100, judgment was obtained, but there was no evidence that it had been satisfied. The notes clue on the 1st of June and on the 28th of July, respectively, remained unpaid. This suit was commenced in October, 1839. The defendant pleaded the general issue. "Verdict and judgment for the plaintiff below.
+This suit was brought fbr the conversion of the wagon and team mentioned above, and the right of Tannehill to maintain it is denied on the ground that he had not, at any time between the making of the mortgage and the commencement of the suit, a right to the possession of the property. Unless it shall appear that he had the right of possession at the time Burton sold the property, he can not, it is clear, recover in this action. To determine this point, the meaning of the mortgage must be arrived at. The following is its "language: “How if the said party, &e., shall pay said notes as they shall severally arrive at maturity, then the above mortgage to be null and void, otherwise, &c.; and it is also stipulated that said property in the meantime is to remain ” in the possession of the mortgagor. By the words “in the meantime,” *we under-r stand the time between the execution of the mortgage, and the time at which either of the notes should fall due. If at the maturity of either of the notes, Wernwag should fail to pay the amount due, his right to retain the possession of the property should cease, and the right of possession should devolve upon Tannehill. If that be the meaning of the contract, this case is distinguishable from the case of Hamilton v. Mitohell, May term, 1842. In that case the claimant of the property failed, because he had not a right to the immediate possession of the goods. ¥e express no opinion on the question whether on failure of Wernwag to pay either of the installments, Tannehill had a right to sell the property; .we only say that the time for which the mortgagor had a right to retain the possession, expired on his failing to pay as the notes respectively became due. Tannehill having a special property in the goods, and the right of possession at the time of the sale by Burton, may therefore maintain an action of trover against him for the conversion of the goods.
+It is again objected, that having commenced an action upon the note payable January the 1st, 1839, and having obtained a judgment for so much as was due'at the, time of the conversion by Burton, Tannehill waived his lien on the goods; that if he nad intended to look to the mortgaged property for his security he should have taken possession of it. We do not think so. Every mortgage implies a debt, and a mortgagee may without returning the goods if they be in his possession have his remedy by action against the mortgagor, unless there be a special agreement to look to the property only, in which case the person of tlie mortgagor is discharged. Strange, 919; 3 P. Will., 358; 2 Stark. R., 72; 4 Carr. & P., 151.
+J. P. TJsher, W. D. Griswold, and W. J. Brown, for the plaintiff.
+C. W. Barbour, A. Kinney, and 8. B. Goohins, for the defendant.
+The objections made by the defendant in the Circuit Court to the admissibility of the mortgage in evidence, and against the testimony of Smith, are unavailing.
+Per Curiam.—The judgment is affirmed, with three per cent. damages and costs.
