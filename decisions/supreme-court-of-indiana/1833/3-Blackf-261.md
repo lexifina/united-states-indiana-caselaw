@@ -1,0 +1,30 @@
+---
+court: "Supreme Court of Indiana"
+decided: "1833-11-25"
+citations: ["3 Blackf. 261"]
+reporter: "blackf"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hagar and Another v. Mounts."]
+source_url: "https://static.case.law/blackf/3/cases/0261-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1391854
+---
+
+# Hagar v. Mounts
+
+## Majority (M’Kinney, J. Per Curiam.)
+
+M’Kinney, J.
+At the May term, 1832, this case was before us, and it was decided that the Circuit Court erred, in rejecting the testimony offered by the defendants in support of their pleas. In.the opinion delivered, it was observed, “The plaintiff need not go to trial on the special plea, unless it be sworn to; but if he does, the same proof will be admissible as if the affidavit had been made. Considering the pleas in this case, therefore, as regularly before the Court, the evidence in their support, if it tend to show a. valid defence, should not have been rejected.” The judgment of the Circuit Court was reversed, and the cause remanded.
+The-cause was subsequently reinstated in the Circuit Court, and on the motion of the plaintiff, the pleas which had been .filed before the justice of the peace, and to which the above remarks were applied, were set aside. It also appears, by a bill of exceptions, that the Circuit Court refused permission to the defendants, the pleas being set aside, “to prove that the debt for which the note' declared on was given, -was a debt due by said Wilson and one Benjamin F. Arnold, formerly his partner;-that the note now before the Court was given for the debt due by said Wilson 8/ Arnold, before the partnership of Wilson 8/ Hagar, and made and given without the knowledge or consent of Hagar; and that Hart had good reason to believe and suppose,'he was going security for said Wilson 8/ Hagar, when in truth and in fact, he was going security for Wilson 81 Arnold.” The rejection of the pleas, and the exclusion of the testimony offered, are assigned as error.
+In the opinion delivered at the May .term, 1832, this Court declared' that testimony, such as was rejected, was admissible under the pleas, and constituted a bar to the action. Numerous authorities were cited in support of the position. It was also decided, that although the pleas denied the execution of thé note, and by the statuté, R. C. 1824, p. 292, should have been supported by affidavit, yet if the plaintiff waived the objection and went to trial, he was concluded, and the testimony, therefore, admissible. This cause originated before a justice of the peace, and on the trial in that Court, judgment was rendered for the defendants. On the appeal to the Circuit Court, the exclusion of the testimony referred to, left the defendants without support to their pleas, and judgment was rendered for the plaintiff for the amount of the note. The judgment from which the present appeal has been taken to this Court, the pleas and testimony being rejected, was also for the .plaintiff.
+Upon the errors assignedj two questions arise: — 1st, was the Circuit Court correct in rejecting the pleas? 2dly, in the absence of the pleas,'was the testimony offered, admissible?
+The legislature appears to have thrown around the Court of a justice of the peace, every protection that can secure to that useful tribunal'its full measure of benefit to the community, and, as a most effectual guard, has enacted “that on appeals to the.Circuit Court, neither the written statement of the cause of action, nor defence of the parties,'shall be set aside for want of form, but shall be acted upon without any substantial amendment or alteration, whatever; and that the defendants shall have' the benefit of the general issue, without pleading -the same, except when it denies the execution of an instrument, the foundation of the action, when it must be verified by oath or-affirmation.” ■ Recognizing as correct the opinion heretofore given of the pleas in this case, and regarding the statute as imperative, it would seem very clear that the Circuit- Court was denied the power of setting aside the pleas. If the objection of the insufficiency of the pleas, they denying the execution of the note, the foundation of the action,-had been made before the justice of the peace, in consequence of the absence of an affidavit of their truth, if such was the character of the pleas, the objection would have been good. No such objection, however, appears to have been made before the justice of the peace, or in the Circuit Court until the second trial of the cause. This was obviously a waiver of the formality of an affidavit. . We think there was error in their rejection.
+Upon the 2d question, we are equally clear that error' was committed by the Circuit Court, in excluding the -testimony offered. The testimony was a bar to the action, not because the note was not executed, but because Hagar, the partner of Wilson, was not liable to the plaintiff for a debt due to him by a former firm, of which Hagar was not a member,, and because Hart, the surety in the note, by the fraud of the plaintiff and Wilson, signed the note as surety for Wilson &/■ Hagar, when the note was given for a debt due by' Wilson 8/ Arnold. The fact, that the plaintiff knew that the debt was created by Wilson 8/ Arnold, would be a bar to a recovery against Hagar, he having no knowledge of the execution of the note, nor having assented to it, and the fraud upon Hart would equally protect him from liability.
+P. Sweetser, for the appellants.
+W. Herod, for the appellee.
+The ground of the defence, under the general issue, was the fraud practised by Wilson and the payee of the note, and as the testimony rejected by the Court would have established this fraud, it should have been admitted.
+We therefore think that the Circúit Court erred, not only in setting aside the pleas, but in refusing to permit the evidence offered to be given.
+Per Curiam.
+The judgment is reversed with costs. Cause remanded, &c.
