@@ -1,0 +1,31 @@
+---
+court: "Supreme Court of Indiana"
+decided: "1881-04-04"
+citations: ["1 Ind. L. Rep. 827"]
+reporter: "ind-l-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William H. Krutsinger v. Westley Brown."]
+source_url: "https://static.case.law/ind-l-rep/1/cases/0827-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6689546
+cites_cases: ["55 Ind. 487", "57 Ind. 435"]
+---
+
+# Krutsinger v. Brown
+
+## Majority (Mr. Justice Elliott.)
+
+Opinion of the court by
+Mr. Justice Elliott.
+The material facts stated in the complaint may be thus summarized : Nathan Arnold procured Westley Brown to become surety for him upon two promissory notes, one executed to Peter C. Cauble, the other to Sallie Collier. To indemnify Brown, Arnold executed a mortgage conveying to the former certain real estate; Brown was compelled to pay, and did pay, the notes executed by him as surety for Arnold. Copies of the notes and mortgages are filed with the complaint, and a decree of foreclosure prayed; Krutsinger, the appellant, was made a defendant, and it was alleged, to quote from the complaint, “ That the said Krut-singer held a mortgage junior and subsequent to plaintiff, which he has foreclosed, upon the same real estate described in plaintiff’s mortgage or a part thereof, and at a sale under such decree of foreclosure such real estate was purchased by Krutsinger who now holds a sheriff’s certificate of the sale thereof, and is made a party herein to answer to his interest.” Appellant insists that the complaint is bad, because it does not aver that Brown was not a party to the suit upon appellant’s mortgage. There is no force in this argument. It would be a strange doctrine that would require the holder of a senior mortgage to aver and prove that his rights had not been defeated in an action brought by a junior incumbrancer upon a lien inferior to that of the senior mortgage.
+The appellant answered Brown’s complaint in two paragraphs, the first of which was a general denial. The second paragraph contained substantially the following allegations: That in March, 1877, Arnold executed a mortgage to appellant to indemnify him against loss on account of his having become surety for said mortgagor, Arnold; that the mortgage was upon the same real estate as that included in the mortgage to appellee; that appellant was compelled to pay the debts for which he became Arnold’s surety; that after such payment appellant brought suit upon the mortgage executed to him by Arnold; that appellee, Brown, was a party to such suit; that in his complaint in said suit, appellant charged that Brown claimed some interest in said lands, and demanded that he set it up or be forever estopped. That Brown appeared; that trial was had, and that a decree was rendered foreclosing the appellant’s mortgage. The answer does not aver that the appellant’s mortgage was senior to that of the appellee, Brown, nor does it aver that it was so adjudged in appellant’s action ; upon the contrary, there is a studious avoidance of any such statements. It is true that the answer alleges that “ Brown had no interest or title in said lands, except said mortgage, but what could have been litigated in said cause; and had none during the year 1878.” This is not an allegation that Brown’s mortgage was junior, or that it was so declared in the decree rendered in the action instituted by appellant.
+No answer of res adjudieata can be good, which, upon its face, shows that the question asserted to have been litigated was not litigated, but was expressly reserved or excepted from the judgment. On the contrary, the plea to be good must affirmatively show that the question was litigated, or could have been litigated under the issues, and was, therefore, impliedly averred by the judgment. This answer does show, upon its face, that Brown’s rights were not adjudicated by the judgment rendered at the suit of appellant upon his mortgage. It is averred in the answer that the decree sought and obtained by the appellant contained this provision, “ Saving to said Brown any interests, if any, he held in said lands.” It thus affirmatively appears in the decree procured by appellant, upon which he builds title, and upon which he rests his entire defense, that Brown’s rights were not litigated, but were expressly saved to him. The assertion of appellant in the face of this provision, that Brown’s rights were adjudicated and thereby extinguished, is deserving of but little consideration.
+S. B. Voyles, for appellant.
+A. B. Collins, for appellee.
+The appellant’s answer is defective in many particulars, but we deem it unnecessary to notice them. It is so plainly bad, because it shows affirmatively that there was no adjudication, that we can, without hesitation, approve the ruling sustaining appellee’s demurrer without casting about for other reasons.
+The motion for a new trial was rightly denied.
+Of two mortgages of indemnity, that which is first executed and duly recorded is the senior lien. The lien of the mortgage begins with its execution and delivery, not With the payment of the‘ debt indemnified against. Brinkmyer v. Hebbling, 57 Ind. 435; Brinkmyer v. Brownell, 55 Ind. 487.
+There is no force in the appellant’s proposition that the evidence does not show that Brown was Arnold’s surety. It is so expressly stated in the mortgage executed by Arnold to Brown, and this instrument was in evidence. Of its contents appellant had notice, because it was of record when he received his title.
+The appellant is mistaken in saying that the evidence fails to show’that Brown had paid the notes upon which he was surety. It is clearly shown that one was paid in money and the other by the promissory note of Brown, payable in bank. It is now well settled that the execution and delivery of a promissory note, negotiable by the law merchant, is a payment of a precedent debt, unless there was an agreement that it should not be taken as payment. Teal v. Spangler, this term. But whether Brown’s note was, or was not payable in bank, is not material; it was accepted by the creditor as payment, and, certainly, whether it was, or was' not valuable, is no affair of appellant.
+Judgment affirmed at the costs of appellant.
