@@ -1,0 +1,26 @@
+---
+court: "Supreme Court of Indiana"
+docket: "7,902"
+decided: "1913-10-29"
+citations: ["54 Ind. App. 359"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Apple v. Robb et al."]
+source_url: "https://static.case.law/ind-app/54/cases/0359-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5124344
+cites_cases: ["103 N. E. 12", "113 Ind. 256", "115 Ind. 201", "123 Ind. 126", "137 Ind. 218", "139 Ind. 221", "140 Ind. 321", "15 N. E. 270", "16 N. E. 615", "24 N. E. 96", "36 N. E. 712", "38 N. E. 861", "39 N. E. 455", "93 Am. Dec. 345"]
+---
+
+# Apple v. Robb
+
+## Majority (Lairy, C. J.)
+
+Lairy, C. J.
+Appellee filed a complaint to quiet title to certain real estate described therein, against a judgment which appellant claimed to be a lien upon said land; and to perpetually enjoin him from levying an execution based on such judgment on the real estate described and from selling such real estate to satisfy the same. The correctness of the court’s ruling in holding the complaint sufficient as against a demurrer addressed thereto by appellant is properly presented by assignment of error and this is the only question involved in this appeal.
+Prom the complaint it appears that the land described therein descended to appellee Sarah E. Eobb and her children as heirs of George W. Eobb, deceased; and, that after the death of his father and before appellant obtained his judgment, Oliver P. Eobb, one of the heirs, conveyed his interest in the real estate to his mother Sarah E. Eobb. After this conveyance appellant obtained a judgment in a court of a justice of the peace against Oliver P. Robb in the sum of $186.53. He filed a transcript of this judgment with the clerk of the circuit court of Hancock County and had an execution issued thereon, and at the time the complaint was filed he was threatening to levy this execution and enforce it against the land described in the complaint.
+Appellant concedes that his judgment is not a lien on the real estate in question if the deed executed by Oliver P. Robb to his mother is sufficient to convey title, but he contends that the description of the real estate contained in the deed is so indefinite as to render the instrument void for uncertainty. The description contained in the deed as shown by the complaint is as follows: “All our undivided interest in and to 59 acres of the middle division of the northwest quarter of section 36, township 17 north, range 5 east.” The complaint further alleges that at the time of the execution of the deed the grantor delivered to his mother possession of his interest in the real estate sought to be conveyed, and that she paid to him the entire purchase price which was the full value of the interest sold.
+The lien of a judgment is subject to all equities in favor of third persons in the land sought to be subjected to the satisfaction of the judgment. Equitable interests which are prior in point of time to a judgment will be given preference over such judgment. Peck v. Williams (1887), 113 Ind. 256, 15 N. E. 270; Justice v. Justice (1888), 115 Ind. 201, 16 N. E. 615; Warren v. Hull (1889), 123 Ind. 126, 24 N. E. 96; Huffman v. Copeland (1894), 139 Ind. 221, 38 N. E. 861. In the case of Peck v. Williams, supra, the statement of facts shows that one tenant in common entered into a parol contract with one of her cotenants for the purchase of the interest of such cotenant in the common property and paid to him the purchase price in full. After the making of this agreement and the payment of the purchase price, but before a deed was executed, a creditor of such, cotenant obtained a judgment against him, and his interest in the common property was sold on execution to the judgment plaintiff who in due time received a sheriff’s deed for such undivided interest. After the judgment was rendered the judgment defendant executed a deed conveying his interest in the common property in accordance with the parol agreement previously made. It was held that the rights of the judgment creditor who became the purchaser at the sheriff’s sale were inferior to the equities acquired by the parol contract of purchase and the payment of the purchase price. In this case the equities are stronger in favor of appellees than they were in favor of the prevailing party in the case to which we have just referred. It is well settled in this State that the lien of a judgment extends only to actual beneficial interests of the judgment debtor. Moore v. Thomas (1893), 137 Ind. 218, 36 N. E. 712; Chase v. Van Meter (1894), 140 Ind. 321, 39 N. E. 455.
+On the authority of the cases cited we hold that the deed from Oliver Robb to his mother together with the payment of the purchase price was sufficient to divest him of all his beneficial interest in the land as against a subsequent judgment creditor, and that her equities under such deed are superior to the rights of such judgment creditor. The demurrer to the complaint was properly overfuled. Judgment affirmed.
+Note.—Reported in 103 N. E. 12. See, also, 23 Cyc. 1368, 1377. As to interests and estates to which, judgment lien attaches, see 93 Am. Dec. 345; 117 Am. St. 776.
