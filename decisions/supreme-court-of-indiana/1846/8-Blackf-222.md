@@ -1,0 +1,28 @@
+---
+court: "Supreme Court of Indiana"
+decided: "1846-11-27"
+citations: ["8 Blackf. 222"]
+reporter: "blackf"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Avery and Others v. Smith and Others."]
+source_url: "https://static.case.law/blackf/8/cases/0222-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1380856
+---
+
+# Avery v. Smith
+
+## Majority (Blackford, J. Per Curiam.)
+
+Blackford, J.
+Smith and others commenced a suit beffore two justices of the peace against Avery and others. The complaint filed is as follows: For that whereas the plaintiffs are the owners of a certain tract of land, situate, &c., which they hold as heirs at law of James F. Smith, deceased, nevertheless, they say that the defendants are in possession of the premises, holding only as tenants at sufferance under the plaintiffs; and though often requested to quit, and deliver up the possession to the plaintiffs, they have refused to do so. Plea, not guilty. Verdict for the plaintiffs, and judgment on the verdict;
+The defendants appealed to the Circuit Court; and the cause was submitted to that Court. There is a bill of exceptions as follows: Upon the trial of said cause, it was admitted that James F. Smith was the owner and in possession of the land in controversy at the time of his death, which was sometime in December, 1841; that he died intestate; that the plaintiffs are his children and heirs at law; that Olivia M. Smith is his widow; that the mansion-house of said Smith was a tavern situated on a town-lot in Hudson, immediately adjoining the land in controversy, which tavern-house, and a small part of the land in controversy, being all the arable part thereof, constituted the mansion-house and messuage thereunto belonging of said Smith; that the widow remained in possession of the premises under the statute; that, on the 24th of September, 1842, the widow leased the premises to Avery, one of the defendants, for the term of one year at a rent of 40 dollars, and let him into possession of the same, the heirs of Smith all being minors; that the widow applied subsequently to the Probate Court to have her dower assigned; that, at the November term, 1842, of said Court, her dower was assigned to her, which, it is supposed, was intended to operate as a complete assignment of dower in all the lands of Smith within the county, but which, by mistake or otherwise, did not include any part of the land in controversy, and it was not mentioned or included in the proceedings; that the tavern-house and some other property were set off to the widow as her dower in the lands which were mentioned in the petition; that after the assignment of dower, the widow left the county and has not since returned, leaving Avery in possession under the lease from her, which would not expire till the 24th of September following the time when this suit was commenced; that the plaintiffs claimed the land as the heirs at law of said Smith; that the defendant, Avery, claimed as tenant under the widow by virtue of the lease from her; and that the other defendants claimed under Avery,
+The Court found for the plaintiffs. Motion for a new trial overruled, and judgment for the plaintiffs.
+This is a statutory proceeding, and to give the justices jurisdiction, it must appear that the plaintiffs were the landlords of the defendants, or that they claimed under the landlord of the defendants. The statute is entitled “An act concerning tenants holding over.” It says, that when any lands are held under any landlord by any tenant for an uncertain period, &c., if the landlord, his heirs, devisees, or assigns, desire to acquire possession, notice to quit at the proper time must be given, &c., and on refusal of the tenant to comply, such landlord, his heirs, devisees, or assigns, may complain before any two justices of the peace, &c. The statute also says, that where land is leased for a certain term, a notice to quit at the expiration of the term is not necessary; that no notice is necessary in case of a tenant at sufferance, &c.; but that in all such cases, the landlord, his heirs, devisees, or assigns, shall have the benefit of the act without giving the notice. R. S. 1838, p. 584. The object of this statute seems to be clear. It is to give landlords, .and those claiming under them, a summary and expeditious remedy to get their tenants out of possession, who hold over after their right to remain has expired. The relation of landlord and ■tenant existing between the parties in such cases, the plaintiff’s title cannot be disputed; and the summary jurisdiction of the justices seems to be proper.
+In the case before us, the statement of demand, by alleging that the defendants hold as tenants at sufferance under the plaintiffs, may be sufficient; but the evidence does not sustain the statement. The plaintiffs, according to the evidence, do not claim as the landlords of the defendants, nor as heirs, devisees, or assigns of a landlord of the defendants. They claim by descent from Smith, their father, and adversely to the widow who leased to Avery. It is a case in which the defendants have a right to dispute the plaintiffs’ title, not having entered into possession- as tenants under them. They do dispute it, by their claim under the unexpired lease from the'widow.
+We think, therefore, that the evidence shows that the justices had no jurisdiction of the suit. If the plaintiffs are entitled to possession, they must resort to some other remedy.
+J. B. Niles, for the plaintiffs.
+J. H. and J. Bradley, for the defendants.
+Per Curiam.
+The judgment is reversed with costs. Cause remanded, &c.
