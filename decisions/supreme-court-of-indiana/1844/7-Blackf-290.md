@@ -1,0 +1,28 @@
+---
+court: "Supreme Court of Indiana"
+decided: "1844-12-03"
+citations: ["7 Blackf. 290"]
+reporter: "blackf"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Kinsey v. Grimes."]
+source_url: "https://static.case.law/blackf/7/cases/0290-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1383012
+---
+
+# Kinsey v. Grimes
+
+## Majority (. Dewey, J. Per Curiam.)
+
+. Dewey, J.
+— Kinsey filed a bill in equity against Grimes to enforce a mechanic’s lien. The bill, among other things, alleges that Grimes purchased of Kinsey 17,600 bricks, with which he erected a dwelling-house; that the bricks were bought on a credit of six months, at the price of four dollars per thousand, amounting to 70 dollars and 40 cents, in which sum Grimes was indebted to Kinsey. Grimes, in his answer, denies the purchase of the bricks of Kinsey, and all indebtedness to him. There was a general replication. A jury was called to try the issue formed by the bill and answer, with respect to the purchase of the bricks, and Grimes'1 indebtedness to Kinsey for them. Verdict for the defendant; and the bill dismissed.
+The evidence is not spread upon the record; but it appears- by a bill of- exceptions, that the defence set up by Grimes was, that the bricks which he use.d in building his house were purchased of Kinsey by one Thorp, who was indebted to Grimes. We are further informed, that there was evidence tending to prove that Kinsey would not trust Thorp for the bricks, unless Grimes would be his surety.
+Kinsey requested the Court to instruct the jury, that if Grimes took the bricks from Kinsey's kiln, without informing him that he had consented to be surety for Thorp, he was himself responsible for their value, and could be held liable in this action. The Court refused to give the charge. We think the refusal was correct. The contract alleged in the bill is, that- Grimes purchased the bricks of Kinsey at a stipulated price, and on a certain credit. If Grimes became liable to Kinsey by contract for taking the bricks, under the circumstances supposed in the instruction asked for, it was on an implied promise to pay for them, on demand, at their reasonable value. Proof of such a promise would not support the bill, which alleged a different contract. It would, therefore, have been improper for the Court to have charged the jury, that Grimes could be held liable in this action on the implied* promise.
+Kinsey also asked the Court-to instruct the jury, that the admissions of the defendant were legal evidence in favour of the plaintiff, the record showing that there was testimony to which the instruction, if given, would have applied. The Court refused so to charge. ■ If, under any supposable state of facts, the refusal of the Court to instruct as asked could be justified, we are bound to presume that those facts existed. If the admissions alluded to in the rejected charge were made to avoid litigation, they were not legal evidence, and the refusal was correct.
+Among the instructions given by the Court was the following : That to entitle the plaintiff to a verdict, he must have established the claim alleged in the bill by two witnesses, or by one witness and strong corroborating circumstances.
+It is usual in equity practice, where a fact alleged in the bill- is plainly denied by the answer, and supported but by one witness and circumstances of corroboration, to send the issue to be tried at law; and to direct that the answer be read in evidence to the jury. And it seems that, without such direction, the answer would not be evidence, for it is contrary to the rules governing Courts of common law, to suffer a party to make evidence for himself. Glynn v. The Bank of England, 2 Ves. 38.—Gresley’s Eq. Ev. 156.—Arnot v. Biscoe, 1 Ves. 95.—Ibbottson v. Rhodes, 2 Vern. 554. The statute on which this bill .is founded provides that the Court, on the application of either party, may direct an issue to be made, and a jury to, be called to try it, as in other cases at law. R. S. 1838, p. 412. But there is no provision that the answer of the defendant shall go to the jury, or what shall be its effect on the trial. No question, however, arises in this cause as to the admissibility of the answer. It went to the jury without objection ; and the only inquiry is, what is to be its effect ? In a Court of equity, the answer, distinctly denying a fact alleged in the bill, stands on the footing of the testimony of a disinterested witness, and, when it is opposed to single evidence only on the part of the plaintiff, must prevail. No decree' can be given against it. But when the answer is thus considered, it is going too far to say that to weigh it down, the testimony of one witness and strong corroborating circumstances are at least necessary; slight corroboration is sometimes sufficient. Gresley’s Eq. Ev. 4. But the answer has not the same weight before a jury trying an issue at law, that it has before the chancellor. The jury have the right to view it with the suspicion which attends the testimony of an interested witness, and to give it such credit as they may think it deserves. Glynn v. The Bank of England, supra.—Gresley’s Eq. Ev. 157. It follows from this principle, that the jury, if in their opinion the uncorroborated testimony of a single disinterested witness is entitled to greater weight and credibility than the answer, may find a verdict against the latter. The charge of the Court to the contrary was incorrect.
+J. S. Newman, for the plaintiff.
+C. H. Test, for the defendant.
+Per Curiam.
+— The decree is reversed with costs. Cause remanded, &c.
