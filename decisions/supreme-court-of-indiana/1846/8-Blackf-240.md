@@ -1,0 +1,30 @@
+---
+court: "Supreme Court of Indiana"
+decided: "1846-12-01"
+citations: ["8 Blackf. 240"]
+reporter: "blackf"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Casteel v. Casteel."]
+source_url: "https://static.case.law/blackf/8/cases/0240-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1380805
+cites_cases: ["10 Wend. 79", "2 Conn. Rep. 638"]
+---
+
+# Casteel v. Casteel
+
+## Majority (Dewey, J. Per Curiam.)
+
+Dewey, J.
+This was an action by foreign attachment in favour of William Casteel against Nathan Casteel. The affidavit and declaration make a demand against the defendant for the necessaries of life furnished by the plaintiff for the defendant’s wife and family, and for work and labour. defendant appeared, and, without releasing the attachment, pleaded the general issue and set-off. Yerdict for the plaintiff for 275 dollars, and judgment for that amount against the attached property.
+It appeared in evidence that in 1835, the defendant deserted his family, leaving them residing on sixty acres of land, a portion of which was cultivated; that his family consisted of his wife and five children — four boys and a daughter; that the plaintiff, the eldest, was at the time of the desertion about fourteen years old, and the youngest about two or three years of age; that no means of supporting the family were left except the cultivation of the land; that the two boys next in age to the plaintiff remained with the family about three or four years, and then left it; that the wife died in 1845, having been sick and helpless during the last two years of her life; that the plaintiff continued with the family until the death of his mother, and laboured on the premises nearly all the time for the support of the family, having cleared six, or eight acres of land, and being, at the death of his mother, between twenty-three and twenty-four years old; that his services, after full age, were worth about 130 dollars a year; that the defendant never returned to his family, or aided in the least in their support.
+The plaintiff offered in evidence the declarations of the defendant’s wife, tending to show that she had employed the plaintiff during his nonage, and afterwards, to work on the defendant’s premises, and for the support of his family. The evidence was objected to but admitted; and the Court after-wards refused to instruct the jury to disregard it.
+The Court charged the jury, that the plaintiff was not entitled to recover for services rendered by him while a minor, unless his father had relinquished his claim to his son’s services and time; and that the father’s abandonment of his wife and family, without making any provision for their support, was in law a release of his right to the time and services of his son.
+It is contended that the Court erred in admitting in evidence the declarations of the defendant’s wife, and in giving the latter part of the above charge.
+It is in general true, that the declarations or admissions of the wife are not legal evidence for or against her husband; but there are exceptions to this rule. If the husband has expressly or impliedly made his wife his agent, her declarations or admissions, in regard to matters within the scope of her authority, are admissible evidence against him. Emerson v. Blonden, 1 Esp. C. 142. — Anderson v. Sanderson, 2 Stark. C. 204. — Clifford v. Burton, 1 Bingh. 199. And whether the wife be in fact the agent, by express or implied authority, is a question for the jury. Petty v. Anderson, 3 Bingh. 170.— Clifford v. Burton, supra. — Plummer v. Sells, 3 Nev. & Man. 422. We think it was competent for the jury to infer from the facts of this cause, that the defendant did authorize his wife to procure, on his responsibility, the labour of the plaintiff, after he was of age, in cultivating the defendant’s land for the support of his family. It was the duty of the defendant to provide for his wife and young children; and when regardless of that duty, he entirely abandoned them, his wife became the natural head of the family. As he thus devolved upon her, at least morally, the duties which he himself was legally bound to discharge, it is no more than a fair presumption that he conferred upon her the .authority necessary for the performance of those duties. The cultivation of the small farm on which the family was left, was the most obvious and indeed the only means to which the wife could resort for their support; and the jury had the right to consider her as authorized by her husband, to procure its cultivation by hired labour. It has been held in Connecticut, that a husband, who entirely abandoned his wife and children, leaving her in charge of a boarding house, with no other means of sustaining the family, was bound by her contracts made in the course of her business. Rotch v. Miles, 2 Conn. Rep. 638. In New York, it is considered that a wife, in the absence of her husband, has a general authority to exercise the usual and ordinary control over his property (no other agent being appointed for that purpose) and may hire it out. Church v. Landers, 10 Wend. 79. We think the Court committed no error in admitting the declarations of the defenclant’s wife, respecting her employment of the plaintiff to labour on the premises of the defendant.
+D. and S. 8. Brier, for the plaintiff.
+G. W. Lawson and R. C. Gregory, for the defendant.
+Whether the Court erred in instructing the- jury, that the defendant’s abandonment of his family was a relinquishment of his right to the services of the plaintiff while a minor, it is not necessary to decide, for allowing the charge to be wrong, it could have no effect upon the verdict. The proof was, that the services rendered by the plaintiff after full age, were worth more than the jury gave him. We have frequently decided that the misdirection of the Court, if the verdict be right, is not a good cause for reversing a judgment.
+Per Curiam.
+The judgment is affirmed with costs.
