@@ -1,0 +1,27 @@
+---
+court: "Supreme Court of Indiana"
+decided: "1846-11-23"
+citations: ["8 Blackf. 190"]
+reporter: "blackf"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Carr v. Howard and Another, Administrators."]
+source_url: "https://static.case.law/blackf/8/cases/0190-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1380875
+cites_cases: ["1 Blackf. 392", "5 Pick. 307", "7 Blackf. 240"]
+---
+
+# Carr v. Howard
+
+## Majority (Dewey, J. Per Curiam.)
+
+Dewey, J.
+Carr, the assignee of Robertson, brought an action of debt against G. Howard, one of the makers of a sealed note for 300 dollars with ten per cent, interest; L. Howard, the other maker, being dead. The defendant pleaded seven pleas. The first and third pleas led to issues of fact. The second plea is, that after the maturity of the note, and before its assignment, Robertson, the payee and assignor,' agreed with L. Howard (who was the principal debtor, the defendant being only his sui-ety) that in consideration L. Howard would pay him in advance one year’s interest at the rate of ten per cent, on the debt, for the year next ensuing the agreement, Robertson would give him time during that year; that L. Howard paid the interest in advance, amounting to 30 dollars; that time was given accordingly; and that the defendant knew nothing of the arrangement, and never, assented to it. The fourth plea is, that the defendant executed the note as the surety of L. Howard; that after the day of the payment of the note, and before its assignment, and during the life of L. Howard, the defendant requested Robertson to collect the debt of L. Hoioard, who was then solvent; that Robertson failed to do so; and that L. Howard afterwards became insolvent. The fifth, sixth, and seventh pleas, are the same in substance as the second. The plaintiff replied to the second, fourth, fifth, sixth, and seventh pleas, an estoppel as to so much of them as alleged that the defendant was the surety of L. Howard; it appearing by the writing obligatory sued on, that L. Howard and the defendant jointly and severally promised, &c., without either being designated as principal or surety. The defendant demurred to the replications; the demurrers were sustained; and final judgment rendered for the defendant.
+Whether the technical doctrine of estoppel is applicable to this case, it is not necessary to decide, because allowing it to be so, or viewing the writing obligatory on which the action is founded, in the same light as if it showed upon its face that the defendant was a surety for the other obligor, the pleas reached by the demurrers are all bad.'
+The fourth plea simply alleges the failure of the creditor to collect the debt of the principal debtor, though verbally requested to collect it by the surety; and that the principal afterwards became insolvent. We have frequently decided that the mere gratuitous giving of time by the creditor to the principal does not discharge the surety. — Braman v. Howk, 1 Blackf. 392. — Naylor v. Moody et al., 3 id. 92.— Coman et al. v. The State, 4 id. 241. — Harter et al. v. Moore, 5 id. 367. The alleged request by the surety of the creditor to enforce his claim by suit is unavailing, because it is not stated to have been in writing as the statute requires. Nor does the subsequent insolvency of the principal alter the case. Bellows v. Lovell, 5 Pick. 307. If the surety wished to guard against the insolvency of his principal, he should have given the creditor notice to sue in writing, or have applied to a Court of equity to compel him to enforce his claim at law, or he might have paid the debt himself, and taken his recourse against his principal. Having done none of these things, he has no reason to complain because the creditor delayed till the principal became insolvent. ¡
+J. G. Marshall, for the plaintiff.
+R. Crawford, for the defendants.
+As to the other pleas reached by the demurrers, they all allege that the contract to prolong the time of payment, made between the creditor and the principal debtor, was by parol; and they are bad for that reason. Time given to the principal by a parol contract to pay a specialty debt does not discharge the surety. So it was held in Davey v. Prendergrass, 5 B. & Ald. 187; and this Court followed that decision in Tate v. Wymond, 7 Blackf. 240. See, also, Bulteel v. Jarrold, 8 Price, 467. In those cases, the agreement to prolong the time of payment was made before the debt was payable by the original contract. In the case before us, it was made afterwards. In United States v. Howell, 4 Wash. C. C. R. 620, it was held that a parol contract to extend the time of payment of a debt due by bond, made after the maturity of the bond, did not discharge the surety; though it was also decided that such a contract made before the breach of the bond would discharge the surety. We are unable to perceive the force of this distinction. • The reason why the parol contract is not available by the surety is, that a specialty cannot be discharged, controlled, or in any way affected, by a contract of less dignity than itself. This reason is equally applicable whether the parol agreement be made before or after the breach of the specialty. In neither case can it, at law, discharge the surety. The Court should have decided the demurrers in favour of the plaintiff.
+Per Curiam.
+The judgment is reversed with costs. Cause remanded, &c.
