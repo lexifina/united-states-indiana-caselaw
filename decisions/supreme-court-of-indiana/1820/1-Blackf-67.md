@@ -1,0 +1,30 @@
+---
+court: "Supreme Court of Indiana"
+decided: "1820-07-26"
+citations: ["1 Blackf. 67"]
+reporter: "blackf"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Holman, J., was absent in consequence of indisposition."]
+parties: ["Bates and Another v. Hunt."]
+source_url: "https://static.case.law/blackf/1/cases/0067-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1389495
+cites_cases: ["1 Bibb, 396", "19 Johns. Rep. 300", "2 Bibb, 328", "9 Wheat. 558"]
+---
+
+# Bates v. Hunt
+
+## Majority (Scott, J. Par Curiam.)
+
+Scott, J.
+It is a good general rule, which admits of but few exceptions, that a defendant cannot plead specially, any matter of which he can avail himself in evidence under the general issue . The general issue in an action of debt on simple contract is nil debet. It has long been the established doctrine, that? in an action of assumpsit by the indorsee of a promissory note against the maker, it is incumbent on the plaintiff to prove, at the trial, on the general issue, both the execution of the note and the assignment . The same doctrine will apply to an action of debt on simple contract. The plea of nil debet is as broad a defence, and admits of as great latitude, with respect to evidence, as non assumpsit. It puts the whole case in issue; and makes it incumbent on the plaintiff to prove every thing which he was bound to state in his declaration; and enables the defendant, on his part, to prove any thing which shows that the plaihtiff has no Remand on him. It is clQar, then, that the plea, in this case, sets up no other matter of defence, than such as would have been good under the general issue.
+Caswell, for the plaintiffs.
+Test, for the defendant.
+If. has been objected in this case, that, inasmuch as the general issue amounts to a denial of the whole ground of action, it would not be admissible, under the statute, unless supported by an oath ; and as the defendant could not deny the execution of the note, therefore, he could, not plead nil debet. But this objection we deem insufficient. The plea of nil debet does not necessarily deny the execution of the note. The defendant may plead this plea, and, without any repugnance or inconsistency, admit the execution of the note declared on, and rest his defence on any other point. The design'of the statute, was not to deprive the defendant of any good and solid defence, but to save the plaintiff the trouble and expense of proving .a fact within the knowledge of the defendant, unless such fact is denied on oath. It is our duty so to construe.tbe statute as to support its spirit and equity, and, as far as possible, to carry into effect the design of the legislature in making it. The correct doctrine under this statute, which has introduced a system of practice, in some respects new and unprecedented, we believe to be this: To an action of debt, or assumpsit, on a promissory note, the defendant may plead nil debet or non assumpsit, either with or without oath, at his election. If the defendant plead either of these pleas without oath, the plaintiff needs not prove the execution of the note, or other instrument declared on; in that case it is admitted, because it cannot.be denied but upon oath: but if the plea be supported by oath, the plaintiff is. then bound to prove every thing which it was necessary to allege in his declaration. The plea is bad, and the decision of the Court respect-, ing it was correct.
+Holman, J., was absent in consequence of indisposition.
+Par Curiam.
+The judgment, as to the debt, is affirmed; as to the damages, reversed with costs, that part being erroneous. Cause remanded, &c.
+Any matter of defence which denies what the plaintiff, on the general issue, would be bound to prove, may and ought to be given in evidence under the genera] issue; and a plea setting up, negatively, such facts, is bad on special demurrer-. But any ground of defence, which admits the facts alleged in the declaration, but avoids the action by matter which the plaintiff would not be bound to prove, or dispute, in the first instance, on the general issue, may be specially pleaded. 1 Chitt. Plead. 497. — Bank of Auburn v. Weed, 19 Johns. Rep. 300. A plea, denying the assignment of a promissory note, or bill of exchange, is inadmissible, as amounting to the general issue. Kincaid v. Higgins, 1 Bibb, 396. — Smith v. Shields, 2 Bibb, 328.
+In assumpsit by the indorsee against the acceptor of a bill, and non assumpsit pleaded, proof of the hand-writing of the payee was required, even where the indorsement was on the bill at the time of the acceptance. Smith v. Chester, 1 T. R. 654. — So, although a bill has been shown to 'the drawer, with the payee’s indorsement upon it, and he merely objects to paying it, that he had drawn it without consideration; in an action against him by theindorsee, this does not dispense with regular proof of the indorsement, on non assumpsit. Duncan v. Scott, 1 Campb. Rep. 100. — When the bill or note is pay able to A. and B., not being partners, the indorsement of both must be proved. Carvick v. Vickery, Doug. 653, note. — If the payee, a feme sole, marry, the indorsement of the husband must be shown; if the payee die, that of the executor is required. Rawlinson v. Stone, 3 Wils. 1. — If the first indorsement is in blank, the plaintiff may claim immediately-under that, unless the others are alleged in the declaration. 2 Stark. Ev. 247.
+Ind. Stat. 1817, p. 27. — Vide Sebree v. Dorr, 9 Wheat. 558, — The law here now is, that pleas in abatement, of non est factum, and ail pleadings requiring proof of the execution, .or'assignment, of any instrument of writing, which is the foundation of the suit, or defence, must be verified by oath or affirmation. Ind. Stat. 1823, p. 292. The oath of the maker, to require proof of the assignment, is, that he believes it had not been made before the suit was commenced, or that it hjid been obtained by fraud. Ibid.
