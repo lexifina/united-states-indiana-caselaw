@@ -1,0 +1,28 @@
+---
+court: "Supreme Court of Indiana"
+decided: "1881-04-28"
+citations: ["1 Ind. L. Rep. 220"]
+reporter: "ind-l-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Amanda Stevens, Thomas Stevens et al. v. Thomas M. Tucker and John Manley."]
+source_url: "https://static.case.law/ind-l-rep/1/cases/0220-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6682901
+cites_cases: ["1 Ind. 401", "1 Johns. Ch. 414", "10 Am. Law Reg. 796", "10 Ind. 227", "10 Ind. 265", "12 Ind. 444", "13 Ind. 63", "14 Ind. 552", "15 Ind. 101", "15 Ind. 130", "15 Ind. 325", "17 Ind. 236", "18 Ind. 419", "20 Ind. 449", "20 Ind. 62", "23 Ind, 223", "23 Ind. 272", "23 Ind. 322", "23 Ind. 550", "24 Ind. 103", "25 Ind. 156", "25 Ind. 313", "29 Ind. 266", "30 Ind. 23", "30 Ind. 281", "30 Ind. 289", "30 Ind. 411", "30 Ind. 450", "30 Ind. 94", "31 Ind. 128", "32 Ind. 313", "32 Ind. 332", "34 Ind. 60", "35 Ind. 88", "35 Ind. 92", "36 Ind. 375", "36 Ind. 60", "4 Ind. 217", "4 Ind. 377", "4 Ind. 641", "4 Johns. Ch. 131", "42 Ind. 290", "43 Ind. 172", "45 Ind. 322", "45 Ind. 86", "47 Ind. 345", "48 Ind. 159", "48 Ind. 160", "49 Ind. 133", "5 Ind. 276", "50 Ind. 158", "51 Ind. 437", "52 Ind. 371", "55 Ind. 409", "56 Ind. 402", "58 Ind. 409", "59 Ind. 510", "59 Ind. 511", "6 Ind. 267", "6 Ind. 311", "6 Ind. 363", "6 Ind. 476", "61 Ind. 268", "61 Ind. 276", "7 Blackf. 517", "7 Ind. 490", "8 Ind. 356", "8 Ind. 368", "8 Ind. 376", "8 Ind. 499", "9 Ind. 120", "9 Ind. 235", "9 Ind. 273"]
+---
+
+# Stevens v. Tucker
+
+## Majority (Mr. Justice Woods.)
+
+Opinion of the court by
+Mr. Justice Woods.
+The appellees, Tucker and Manley, sued the appellants upon a complaint showing the following facts:
+The defendants are the children, grandchildren and heirs at law of Thomas W. Allen, deceased, and as such heirs, have each received from said estate property and money of a specified value and amount.
+In 1865 Joseph Allen died, leaving a widow, Sarah J., and three minor children (the defendant grandchildren herein), of whom Sarah J. in 1866 was appointed guardian and gave bond in $8,000 for the faithful discharge of her duties, with said Thomas W. Allen, who was then in life, as her surety thereon. Thereafter she was required by the court to give an additional bond, and on December 13, 1866, she did accordingly execute an additional bond, conditioned as the first, in the sum of $12,000, with the appellees as her sureties therein. Each of said bonds was joint and several in its terms. Said Sarah continued in said trust until October, 1874, when she was removed by order of the court, and in June, 1875, Warden W. Stevens was duly appointed and qualified as her successor, and as such, in the name of the State, brought suit against her and the appellees to recover the sum of $3,000, which she had m her hands as such guardian, and had failed and refused to pay over, and, judgment having been rendered against them in said suit for said sum, the appellees were compelled to pay and did pay the amount of said judgment in satisfaction thereof, said Sarah being and remaining wholly insolvent. Long before the removal of said Sarah from her said trust as guardian, said Thomas W. Allen had died, and Alvan C. Trueblood had been appointed administrator of his estate. The prayer of the complaint is that the court give a judgment compelling the defendants, as heirs at law of said Thomas W. Allen, who was surety on said Sarah’s first bond as such guardian, to pay to the plaintiffs said Thomas W.’s contrib-utive share of said sum of $3,000, and for other proper relief.
+Two of the defendants each filed a several demurrer and eight of the defendants filed a joint demurrer to the complaint for the want of sufficient facts, which demurrers were overruled. One of the defendants did not demur, either separately or jointly.
+The first assignment of error is in these words: “ The court erred in overruling appellants’ several demurrers to the complaint.”
+The appellees contend that this assignment is “ bad for the reason that several errors cannot be assigned in a lump or jointly.” We do not think the point well made. No precedent is cited, and we are not disposed to make one now. The assignment fairly brings to our attention the ruling of the court on the several demurrers referred to, and the ground on which we are asked to refuse to consider whether the rulings were right or wrong is too narrow and technical for the practical administration of justice. Besides, there is another assignment that the complaint does not state facts sufficient to constitute a cause of action; and this brings in question the sufficiency of the complaint in all respects not cured by the verdict.
+The first objection made to the complaint is that it does not show that the estate of Thomas W. Allen had been finally settled. This is a fatal defect. Until there has been an administration fully accomplished and the administrator discharged, a suit against the heirs on the theory of this complaint cannot be maintained. 2 Rev. Stat. 1876, p. 554, § 178; Rinard v. West, 48 Ind. 159. Until such final settlement of the administration has been had, the plain and only proper course is to file the claim under section 62 of act for settlement of decedents’ estates, and if letters have not been issued, the issuing thereof should be procured under the provisions made therefor. We must therefore hold the complaint bad for want of proper averments in this respect, and this makes it unnecessary to decide whether in other respects the complaint shows a good cause of action.
+Judgment reversed with costs and with instruction to sustain the demurrers to the complaint.
