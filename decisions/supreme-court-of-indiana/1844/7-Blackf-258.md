@@ -1,0 +1,27 @@
+---
+court: "Supreme Court of Indiana"
+decided: "1844-11-27"
+citations: ["7 Blackf. 258"]
+reporter: "blackf"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Wilt, Administrator, v. Bird, Administrator."]
+source_url: "https://static.case.law/blackf/7/cases/0258-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1382827
+cites_cases: ["2 Pick. 285", "4 N. H. Rep. 501", "4 Pick. 374"]
+---
+
+# Wilt v. Bird
+
+## Majority (Dewey, J. Per Curiam.)
+
+Dewey, J.
+— Assumpsit by the administrator of Sherdon against the administrator of Brady, on promises between their intestates, for money had and received, money paid? and for work and labour. Pleas, 1. The general issue, with_ an agreement of the parties to admit under it all defences, except that of plene administravit; 2. Plene administravit. Replication to the latter plea admitting its truth, and praying judgment quando acciderint. Verdict for the plaintiff. Judgment against the defendant to be levied of the goods of his intestate remaining in his hands unadministered.
+The plaintiff’s testimony being closed, the defendant proved by one Murray, who had been an administrator of Brady before the appointment of the defendant, that soon after Brady's death, the witness had a conversation with Sherdon, who told the witness that he, Sherdon, had done work for Brady, for which the latter had paid him, on settlement, 400 dollars, which sum he had deposited in Brady's hands; that the sum, so deposited with Brady, “was all the capital which he, Sherdon, had to commence work with,” in a partnership job subsequently undertaken by him and Brady on the canal near Fort Wayne; and that Brady's capital in the copartnership was 1,900 dollars. The witness further stated, that the partnei'ship job was partially done by the partners jointly during Brady's life; that after his death the whole concern was surrendered by his administrator to Sherdon ; that the partnership stock put in by Brady was sold by his administrator for 1,600 or 1,800 dollars, and half of the avails paid to Sherdon; that, at a time when Sherdon and Brady's administrator were attempting to settle the partnership accounts, Sherdon produced a book, in which was an entry in his handwriting, admitting that Brady had put into the joint stock 1,900 dollars. All this testimony was withdrawn from the jury, on the motion of the plaintiff, and against the consent of the defendant, except that part of it which related to the origin and deposit of the 400 dollars with Brady, and to the manner in which it was afterwards disposed of. The Court instructed the jury, that if the admission of Sherdon made to Murray as Brady's administrator, was made during an attempt to settle the accounts between Sherdon and Brady, the object of the attempt being to avoid litigation, the admission was not legal evidence, and must be disregarded by the jury.
+That part of the testimony of Murray which was submit-_ ted to the jury, was, so far as the record shows, legal evidence. It tended to prove that the count for work and labour could not be supported, and also to show that the money deposited by Sherdon with Brady had been, with the consent of the former, applied as partnership stock, in which case it was not recoverable in this action. But the residue of Murray’s testimony was correctly rejected by the Court, because some of it related to the state of the partnership business, and did not form a proper subject of investigation in a suit at law; and because another portion of it disclosed the contents of an account-book, without explaining the absence of the original. Why the Court, in charging the jury as to that part of Murray’s testimony which was retained, alluded to an attempt at a compromise by Sherdon and Brady’s administrator, we are not informed. The record says nothing about such an attempt at the time Sherdon made the admission with regard to the money deposited with Brady and the manner of disposing of it. But supposing the admission to have been made under the circumstances alluded to, the charge was incorrect. An offer, concession, or admission, made in the course of an ineffectual treaty of compromise, and constituting, in itself, the point yielded for the sake of peace, and not because it was just or true, is not competent evidence against the party making it; but the law is otherwise with regard to an independent fact admitted to be true, but not constituting such yielded point. Peake’s Ev. 19.—Turner v. Railton, 2 Esp. 474.—Hartford Br. Co. v. Granger el al. 4 Conn. R. 142.—Marsh v. Gold, 2 Pick. 285.—Gerrish v. Sweetser, 4 Pick. 374.—Sandborn v. Neilson, 4 N. H. Rep. 501. The charge was too broad. It excluded the admission of a fact simply because it was made during an attempt to compromise, without further regard to its nature and object.
+There is also a defect in the form of the judgment. The plaintiff confessed the plea of plene administravit; the judgment, therefore, should havé been for the amount found by the jury to be levied of the goods of the intestate, which might afterwards come to the hands of the defendant to be administered. 2 Tidd’s Pr. 1017.
+D. H. Colericic and-IF H. Coombs, for the plaintiff.
+R. Braclcenridge and T. Johnson, for the defendant.
+Per Curiam.
+— The judgment is reversed with costs. Cause remanded, &c.
