@@ -1,0 +1,36 @@
+---
+court: "Supreme Court of Indiana"
+decided: "1837-12-05"
+citations: ["4 Blackf. 421"]
+reporter: "blackf"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Stjujcvan, J. having been concerned as counsel in the cause, was absent."]
+parties: ["Elliott and Another, Administrators, v. Armstrong."]
+source_url: "https://static.case.law/blackf/4/cases/0421-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1388256
+---
+
+# Elliott v. Armstrong
+
+## Majority (Blackford, J. Per Curiam.)
+
+Blackford, J.
+Samuel Elliott filed a bill in chancery in the Dearborn Circuit Court against Walter Armstrong.
+The bill states that in 1804 or 1805, the complainant pur10† numbered 171, in the town of Lawrenceburgh, from the proprietor of the town, took possession of the lot, and made some improvements on it, and, in 1812, received a for the lot from the proprietor; that afterwards, in 1812, during the complainant’s absence from the country, the defendant, knowing the complainant to be the owner of the lot, took possession of it, and commenced making improvements on it; but that before any improvements of much value were made, the complainant’s agent informed the defendant that the lot was the complainant’s, and that he ought not to make the improvements; that, in 1819., the complainant commenced an action of ejectment against the defendant, in the Dearborn Circuit Court, and, in 1821, recovered a judgment in the suit for the premises in question; and that the defendant, after-wards, filed a bill in chancery against the complainant, claiming an equitable title to the lot, but that his bill was dismissed.
+The bill further states that, since 1812, the defendant has been in possession of the lot, and has received the rents and profits; that the defendant claims a large amount for improvements made by him on the lot; that the complainant cannot obtain possession until the accounts between the parties for the rents and profits and improvements are settled; and that proof of the amount of the rents received by the defendant can be obtained only by his own answer.
+The bill prays that the defendant may answer the allegations of the bill; that an account may be taken of the value of the improvements and of the rents and profits; and that after deducting the value of the improvements from the amount of rents and profits, the complainant may have a decree for the balance, and be permitted to issue an habere facias possessionem on his judgment in ejectment.
+The defendant answers as follows: That one Jacob Horner, for a valuable consideration, bought the lot of the proprietor of the town; that the defendant, in 1816, bought it from Horner, and received a deed for it from him, believing Horner to be the bona fide owner of the lot; that the defendant, previously to 1819, erected large and valuable buildings on the lot, supposing it to be his, without any notice of the complainant’s claim, and has, since 1818, paid large sums for taxes on the lot, and received the rents, which rents, on an average, have not exceeded 153 dollars a year; and that the judgment in ejectment and proceedings in chancery relative to the lot, are as stated in the bill.
+To this answer the complainant filed a general replication.
+At this stage of the cause, a jury, impanelled on the de-, fendant’s motion for the purpose, made the following assessment: that the value of the lasting and valuable improvements made on the lot by the defendant before the first of October, 1819, when he received notice of the adverse claim, is 2,000 dollars; that the lot has sustained no damage by waste or cultivation; and that the value of the lot, at the time of the judgment in ejectment, without the improvements, was 500 dollar’s. This assessment being thus returned, the complainant made his election to pay for the improvements as assessed by the jury. The complainant then filed a supplemental bill, alleging the assessment of the jury and his election to pay for the improvements, and praying that an account might be taken of the rents and profits, &c. This supplemental bill was answered, and the answer replied to. On the suggestion of the complainant’s death, the suit was revived in the name of his administrators; and the cause was then submitted on the bill, answer, exhibits, and depositions.
+The Circuit Court dismissed the bill at the complainants’ costs.
+We think that the Court, in dismissing this bill, committed an error.
+The defendant contends, that a Court of chancery has no jurisdiction of the subject-matter of the suit; but in this he is mistaken. The bill claims a discovery and shows a right to it; and, when that is the case, it is settled that the Court of chancery, where the claim is for an account of rents and profits, may finally settle the whole merits of the cause. Jeremy’s Eq. 506.
+The defendant also contends, that the suit for mesne profits will not lie until the improvements are paid for. It is a sufficient answer to this objection without looking any further, to observe that, at the time this bill was filed, it does not appear that the defendant had suggested that he had any demand for improvements, or that he had attempted to have their value assessed.
+G. H. Dunn, D. J. Caswell, E. W Chester, and C. H. Test, for the appellants.
+S. C. Stevens, for the appellee.
+In looking into the merits of this -suit, we find that the complainants have a just claim to a considerable amount for rents and profits; and that the value of the improvements has been assessed by a jury at 2,000 dollars.' It appears to us, that the only real matter in controversy between the parties, is as to the rule by which the amount of the rents and profits is to be estimated. The defendant has had the use of the complainants’ lot, aird is bound to pay a fair rent for it; but he is entitled to the use of the buildings free of rent, because they were erected at his own expense, and because he has by the statute a right to their possession, until he is paid for them by the complainants. With this view of the subject, we have examined the testimony in the cause, and have come to the following conclusion:—The decree of the Circuit Court dismissing the bill must be reversed. The complainants must be charged with the sum of 2,000 dollars, that being the value of the improvements as assessed by the jury; and they must be credited with the sum of 800 dollars for the rents and profits. This amount of the rents and profits is fixed at what we consider to be the value of the rent for the lot, without the improvements, under the circumstances of the case, from the commencement of the action of ejectment until the rendition of this decree. A balance will thus be left in favour of the defendant of 1,200 dollars.
+Stjujcvan, J. having been concerned as counsel in the cause, was absent.
+Per Curiam.
+The decree of the Circuit Court is reversed. It is decreed that the complainants, upon their payment to the defendant of 1,200 dollars without interest, within 12 months from this day, have the possession of the premises, when the said money shall be so paid. It is also decreed, that the defendant pay the complainants their costs in this Court.
