@@ -1,0 +1,26 @@
+---
+court: "Supreme Court of Indiana"
+decided: "1847-12-18"
+citations: ["8 Blackf. 556"]
+reporter: "blackf"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Dayton v. Hall."]
+source_url: "https://static.case.law/blackf/8/cases/0556-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1380871
+---
+
+# Dayton v. Hall
+
+## Majority (Perkins, J. Per Curiam.)
+
+Perkins, J.
+Assumpsit in the La Grange Circuit Court. Damages claimed, 1,500 dollars. Pleas, the general issue, statute of limitations, and set-off. Trial by jury; verdict and judgment for plaintiff for 39 dollars and 31 cents.
+A bill of exceptions presents two questions for our decision. The first arises as follows: “One Samuel Gena was called and sworn to testify on the part of the plaintiff, and after he had been examined in chief touching, among other things, the fact that said Hall (plaintiff) had, in the winter of 1838-39, laboured for said Dayton (defendant) by feeding and taking care of his cattle, the defendant, on cross-examination, asked the witness whether the plaintiff, at the time he was so feeding and taking care of said cattle, was not working and using them for his own benefit, to which question the plaintiff objected, and the Court sustained the objection,” &c.
+We think the Court erred in prohibiting the testimony sought from the witness. The declaration in the cause contained the common counts, one of which was for work and labour, &c. The testimony given by the witness, on his examination by the plaintiff, tended to sustain that count, and to establish a cause of action for the plaintiff to some amount for his care and trouble about thfe defendant’s cattle; but how much that amount should be, or whether indeed it should be any thing, certainly depended upon all the circumstances under which the care and trouble were bestowed. If the plaintiff had borrowed or hired the cattle and fed them while in his own service, and such feeding was the labour, &c., for which he was suing, the defendant surely should have been allowed, under the general issue, to show the facts, to rebut the plaintiff’s right of recovery in any amount for such service, or to reduce the amount of his recovery to what, under all the circumstances, would be a fair compensation. These circumstances being a part of the transaction out of which the plaintiff’s claim arose, need not be brought forward in an account by way of set-off.
+The bill of exceptions thus presents the second question: “After the jury returned their verdict in this cause into Court, the defendant moved the Court for a judgment for costs against the plaintiff, because no evidence was offered by the defendant on the trial in support of his plea of set-off, and the verdict for the plaintiff was for a sum less than 50 _ dollars, and the Court overruled the motion,” &c.
+This question as to the costs arises under our statutes (R. S. 1843, pp. 864, 5), which provide that in actions of debt, assumpsit, and covenant, brought in a Circuit Court, •where the sum due or demanded shall not exceed 50 dollars, the plaintiff shall pay the costs. A construction was given to this statutory provision in Hutchens v. Smith, and in Edmonds v. Paskins (ante, 122, 196). That construction we understand to be, that the question as to the “ sum due or demanded” in the plaintiff’s suit, and consequently the question as to costs, are to be determined on the trial by the plaintiff’s evidence. If he make out a prima facie right of recovery to over 50 dollars, he will be entitled to costs, notwithstanding the defendant may, by his evidence, reduce the amount for which a recovery shall be had below that sum. We think this the only fair rule we can establish. Where there had been mutual dealings between the plaintiff and the defendant, it certainly, under our law which requires parties to prove every item of their accounts by evidence other than their own oaths, would be very hazardous for a plaintiff to give a defendant credit for the amount of his account, thus admitting it, and then incur the risk of being able to prove his own. And where there had not been mutual dealings, where the defendant had no account as a set-off, and the only matter in the suit should be a claim to the reasonable value of goods sold by the plaintiff, the rule adopted would be equally just. Suppose, in this latter case, the goods were fairly valued, on the part of the plaintiff, at 200 dollars, but from real or supposed defects in them established by the defendant, of which the plaintiff had been previously ignorant, a recovery should be had for less than 50 dollars, how could the plaintiff, in such case, have been expected to reduce his claim to less than 50 dollars before suit 1 In the case before us the evidence is not upon the record, and though the bill of exceptions states that no evidence was given by the defendant in support of his plea of set-off, still he might have given evidence under the general issue of many matters going to reduce the plaintiff’s prima facie claim. We cannot, therefore, say that the Court erred in regard to the judgment for costs,
+J. B. Howe, for the plaintiff.
+Per Curiam.
+The judgment is reversed with costs. Cause remanded, &c.
