@@ -1,0 +1,24 @@
+---
+court: "Supreme Court of Indiana"
+decided: "1843-11"
+citations: ["6 Blackf. 547"]
+reporter: "blackf"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ferguson and Others v. Sweeney, Administrator."]
+source_url: "https://static.case.law/blackf/6/cases/0588-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6127016
+---
+
+# Ferguson v. Sweeney
+
+## Majority (Dewey, J.)
+
+Dewey, J.
+At the June term, 1839, of the Probate Court of Clark county, Mordeeai Sweeney, administrator de bonis non of the estate of James Sweeney, filed, his bill in chancery. The bill alleges that, in 1817, James Sweeney died possessed of considerable property; that shortly after his death, one William Ferguson became his administrator, and received assets to the amount of $1,000 or $1,500; that he paid in debts due from the estate about $400 or $500, and wasted the balance by distributing it among his children ; that in 1820 or 1821, William Ferguson deceased, not having fully administered ; that his widow, Margaret Ferguson, was appointed his ad-ministratrix, and had the control of assets to the amount of $600 or $800; that she, in fraudulent collusion with Robert G. Ferguson, and Jane Ann Ferguson (since married to George T. King), the children of herself and William Ferguson, wasted the assets by *converting them to her and their use, and thereby rendered the estate which she represented insolvent; and that she died destitute of property. 'The bill further states that, before the appointment of the complainant as administrator de bonis non oí James Sweeney’s estate, which happened in 1829, the heirs of James Sweeney, the complainant being one, commenced a suit in chancery in the Clark Circuit Court against Margaret Ferguson, Robert G. Ferguson, and Jane Ann Ferguson, and others, founded on the above facts, in order to subject to the claim of the complainants certain real estate which William Ferguson had fraudulently conveyed to Robert G. Ferguson and Jane Ann Ferguson; which suit terminated in this Court (it having been transferred here) in a decree that Margaret Ferguson, Robert G. Ferguson and Jane Ann Ferguson, should pay the complainant-$491, and in default thereof, that certain land fraudulently conveyed by William Ferguson to Robert G. Ferguson should be sold .to satisfy the decree. The bill further alleges that the avails of the land paid $220 on the decree, the balance being still due. This decree was rendered in May, 1828. (The whole record of that cause is copied into this bill, and shows the facts to be substantially the same in both causes.) The bill also states the belief of the complainant to-be, that the estate of William Ferguson is indebted to the estate of James Sweeney to the amount of $700 or $800 besides interest; that, in 1804, Robert George died leaving an estate to a part of which, amounting to $600 or $700, William Ferguson was entitled as one of his heirs at law; that, in 1835, Henry Har-rod became the administrator with the will annexed of George’s estate, and received assets to the amount of $5,000; and that he had paid to George T. King and Jane Ann his wife, as heirs of William Ferguson, $250; and that he had paid to Robert G. Ferguson something in the same capacity. The defendants to this bill are Robert G. Ferguson, George T. King, and Jane Ann his wife, and Henry Harrod. The prayer of the bill is that Harrod be enjoined from paying, and the other defendants from receiving, any further sums out of the assets belonging to George’s estate; and that the other defendants pay to the the complainant whatever sum William Ferguson owed James Sweeney’s estate.
+*The Probate Court granted the injunction. Har-rod answered, and the cause as to him was continued! The bill was taken as confessed against the other defendants, and they were decreed to pay to the complainant $482.47, being the amount due on the decree in favour of Sweeny’s heirs in the other suit.
+The decree of the Probate Court must be reversed. It is sufficient to remark,that the merits of this cause were involved in, and determined by, the suit by James Sweeney’s heirs. The decree in that action put at rest all controversy between the estate of James Sweeney and the estate of William Ferguson. It is true, that the decree is not wholly satisfied, but this complainant, as administrator de bonis non of Sweeney, has no right to enforce it. It belongs to the complainants in that suit, and constitutes a personal debt against the defendants' therein. Those complainants, or their representatives, only can enforce it.
+P. Crawford, for the plaintiffs.
+IT. B. Thornton and A. C. Griffith, for the defendant.
+Per Curiam.—The decree is reversed, the injunction dissolved, and the bill dismissed with costs.
