@@ -1,0 +1,33 @@
+---
+court: "Supreme Court of Indiana"
+decided: "1847-06-24"
+citations: ["8 Blackf. 415"]
+reporter: "blackf"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Spahr v. Hollingshead."]
+source_url: "https://static.case.law/blackf/8/cases/0415-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1380991
+cites_cases: ["14 Pick. 198"]
+---
+
+# Spahr v. Hollingshead
+
+## Majority (Perkins, J. Per Curiam.)
+
+Perkins, J.
+This was a bill in chancery by David M. and Philip Spahr against Mary Jane Hottingshead. The object of the bill was to obtain from her a reconveyance of eighty acres of land, the surrender of a promissory note held by her against the plaintiffs for 50 dollars, and a perpetual injunction restraining the collection of certain judgments at law. The death of David M. Spahr since the filing of the bill is suggested upon the record. The bill was demurred to, the demurrer sustained, and the bill dismissed.
+The material facts charged by the plaintiffs are, that, on the 10th of October, 1843, said Mary Jane appeared before a justice of the peace of Jay county, and made oath that she was pregnant with a child which, if born, would be a bastard, andl that said David M. Spahr was the father thereof; that the justice, on her examination, recognized David to appear at the next succeeding term of the Jay Circuit Court to answer the complaint; that said Mary Jane also commenced, about the same time, a suit at law against said David for an alleged breach of a marriage promise; and that her father gave out in speeches that he should, in due time, also prosecute him in an action for the seduction of his said daughter; that said Mary Jane, her father, their attorneys, and others, their friends, were representing that all said suits could and would be sustained; and that the plaintiffs in this suit were apprehensive of an effort being made to sustain them by perjury. The bill further states that, at this point in the proceedings, an offer of compromise was tendered on the part of Mary Jane and her father, by which it was proposed to abandon the prosecutions already commenced by said Mary Jane, and that threatened by her father, on condition that judgments for costs should go in the suits pending against David; that a note for 50 dollars by the father and son jointly should be given to Mary Jane; and that there should be deeded to her by the father, Philip Spahr, the eighty acres of land described in the bill; which compromise, it is alleged, was entered into on those terms, the judgments suffered, the note given, and the land conveyed. The bill then avers that these suits, instituted and threatened, were all groundless; that Mary Jane was not, as she and her father well knew at the time, pregnant; that there was no breach of marriage promise and. no seduction; that the representations in regard those matters were all false and fraudulent, and the proceedings gotten up to harass said David and frighten him into a marriage of said Mary Jane against his inclination; that when the compromise was made, said Spahrs supposed that Mary Jane was pregnant by some one, and that as _ she had once, though falsely, sworn it to be by said David, they expected she would so swear again after her delivery, and that in that event it might be impossible for David to escape the consequences of the charge, however innocent he might be.
+J. Smith, for the plaintiff.
+O. H. Smith and T. J. Sample, for the defendant.
+Before filing this bill, the plaintiffs tendered a release to Mary Jane and her father of all benefits of said compromise and giving them full right to recommence their prosecutions and also demanded a reconveyance of the eighty acres land, a surrender of the 50 dollar note, and a discharge from the judgments for costs.
+The demurrer to this bill admits the truth of its allegatio: so far as they are well made, and it seems to us they show a ground for relief. A compromise obtained by fraud cannot stand. This bill shows that in this case to have been so obtained. There is authority, that the compromise of a suit in which the plaintiff could not have recovered any thing on account of having no ground of action, cannot be sustained for want of consideration. Smith on Contracts, 50 . Fraud being here alleged, as well as no consideration, it is not necessary for us to go that length in this case.
+It seems to us an answer should have been required to the bill. It will be observed that this compromise embraced several distinct matters of controversy. Should it turn out that the consideration and character of the compromise as to any one or more of those matters were valid, and not so as to the others, there should be an apportionment on the final decree in this case, giving the defendant, Mary, such part of the property as may be equitable. Parish v. Stone, 14 Pick. 198.—Loring v. Sumner, 23 id. 98.
+Per Curiam.
+The decree is reversed with costs. Cause remanded, &c.
+.
+Assumpsit. The declaration alleged that the plaintiff had commenced an action against the defendant in the Exchequer to recover certain moneys, which action was about to be tried, and that, in consideration that the plaintiff would forbear proceeding in that action until a certain day, the defendant promised that he would, on that day, pay. the amount, .but that he made default, &c.
+Plea, that the plaintiff never had any cause of action against the defendant in respect of the subject-matter of the action in the Exchequer) which' ho, the plaintiff, at the time of the commencement of the said action, and thence until and at the time of the making of the promise, well knew.
+Held, on general demurrer, that the plea was sufficient. Wade v. Simeon, 2 Mann., Gr., & Scott, 548.
+Assumpsit. The declaration stated that disputes and controversies were pending between the plaintiff and defendant, as to whether or not the defendant was indebted to the plaintiff in, to wit, the sum of 1731. 2s. 3d., for money lent, &c.; and thereupon, in consideration that the plaintiff would then promise the defendant not to sue him at any time for said sum so in dispute between them, and would accept from the defendant the sum of 1001. in full satisfaction and discharge of the same, the defendant promised the plaintiff to pay him the sum of 1001. within a reasonable time. Held, that the declaration was bad, as not showing a sufficient consideration for the promise; there being no allegation of any debt being due, but merely that a dispute and controversy existed respecting it. Edwards v. Baugh, 11 Mees. and Welsh. 641.
