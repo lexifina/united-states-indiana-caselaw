@@ -1,0 +1,24 @@
+---
+court: "Supreme Court of Indiana"
+docket: "8,331"
+decided: "1913-03-04"
+citations: ["54 Ind. App. 562"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Logansport Credit Exchange et al. v. Sands."]
+source_url: "https://static.case.law/ind-app/54/cases/0562-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5123835
+cites_cases: ["1 Ind. 361", "101 N. E. 19", "111 Ind. 143", "113 Ind. 298", "116 Ind. 300", "12 N. E. 151", "136 Ind. 562", "14 Ind. 186", "14 N. E. 600", "141 Ind. 500", "172 Ind. 562", "19 N. E. 146", "29 N. E. 174", "3 Ind. App. 64", "36 N. E. 237", "40 N. E. 44", "42 Ind. 177", "46 Ind. 444", "88 N. E. 939", "9 Ind. 450"]
+---
+
+# Logansport Credit Exchange v. Sands
+
+## Majority (Adams, J.)
+
+Adams, J.
+The question presented by the record in this appeal is a question of practice. The court below authorized an appeal from a judgment taken against appellee before a justice of the peace, after thirty days allowed for taking such appeal had expired. The order was made pursuant to §1794 Burns 1908, §1503 R. S. 1881, which reads: “Appeals may be authorized by. the circuit court after the expiration of thirty days, when the party seeking the appeal has been prevented from taking the same by circumstances not under his control.” The affidavit filed by appellee in the circuit court in support of his motion for an order directing the justice of the peace to certify the proceedings and judgment to the circuit court, clearly shows that he was prevented from taking an appeal within time, by circumstances not under his control. The sufficiency of the affidavit is not disputed by appellants, but it is urged that the practice permits the filing of counter-affidavits controverting the facts alleged in the affidavit of the party seeking the appeal, and again, that the proceeding authorized by statute is adversary in character and can only be commenced by filing a complaint in the circuit court and having summons issued thereon in the regular way.
+"We think appellants are in error on both propositions. The statute above quoted does not contemplate that the court shall receive evidence in the form of affidavits or otherwise as to the truth of the statements in the affidavit supporting the motion. If it sufficiently ap:' pears that the party seeking the appeal has been prevented from taking the same by circumstances not under his control, the court may grant the appeal. But if the showing is questioned, the recognized practice is either to file a motion to dismiss the application, or, if the appeal has been granted, then a motion to dismiss the appeal. But in either case, the motion goes only to the sufficiency of the showing that the party seeking the appeal was prevented from taking the same by circumstances not under his control. Thomas v. Littlefield (1849), 1 Ind. 361; Welch v. Watts (1857), 9 Ind. 450; Tucker v. Makepeace (1860), 14 Ind. 186; Brooks v. Harris (1873), 42 Ind. 177; Sample v. Gilbert (1874), 46 Ind. 444; Kreite v. Smith (1891), 3 Ind. App. 64, 29 N. E. 174. What we have already said applies with equal force to appellants’ second contention— that the application for an order authorizing an appeal after time is adversary in character. From the cases cited, it will be noted that the practice has been otherwise in this State for such a length of time as to become an established rule. It is well settled that a practical construction given to a statute by long continued action and acquiescence therein is equal to positive law. Board, etc. v. Bunting (1887), 111 Ind. 143, 145, 12 N. E. 151; Weaver v. Templin (1887), 113 Ind. 298, 301, 14 N. E. 600; State, ex rel. v. Harrison (1888), 116 Ind. 300, 308, 19 N. E. 146; Board, etc. v. Gwin (1893), 136 Ind. 562, 590, 36 N. E. 237; City of New Albany v. Iron Substructure Co. (1895), 141 Ind. 500, 515, 40 N. E. 44.
+Appellants further insist that the granting of an appeal, as was done in this ease, on appellee’s ex parte showing, is in conflict with the Federal and State Constitutions, in that, appellants are denied their day in court. This court has no jurisdiction to determine constitutional questions, and the appeal was originally taken to the Supreme Court, under §1392 Burns 1908, Acts 1907 p. 237, on the evident theory that the record presented a question as to the constitutionality of a statute. The Supreme Court ordered the cause transferred to this court, which is in effect a holding that no constitutional question is presented. This must now be regarded as the law of the ease, and in its nature res adjudicata as to the question of jurisdiction. Pittsburgh, etc., R. Co. v. Peck (1909), 172 Ind. 562, 569, 88 N. E. 939. Judgment affirmed.
+Note.—Reported in 101 N. E. 19. See, also, under (1, 3) 24 Cyc. 664; (4) 36 Cyc. 1139; (5) 11 Cyc. 995.
