@@ -1,0 +1,29 @@
+---
+court: "Supreme Court of Indiana"
+decided: "1843-11"
+citations: ["6 Blackf. 485"]
+reporter: "blackf"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Depew v. Wheelan and Another."]
+source_url: "https://static.case.law/blackf/6/cases/0521-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6124320
+cites_cases: ["7 Blackf., 101"]
+---
+
+# Depew v. Wheelan
+
+## Majority (Dewey, J.)
+
+Dewey, J.
+J.— W. E. aud J. G. Wheelan, the payees, sued Depew and Hammick, the makers of a promissory note, in debt before a justice of the peace. A declaration was filed which sets out the note and alleges it to be lost. Process was served upon Depew, but no return was made as to Hammick. Depew appeared before the justice, and pleaded non-assumpsit under oath. The plea was set aside by the justice on the motion of the plaintiffs. Judgment for Depew. The plaintiffs appealed. .Among the papers sent up to the Circuit Court by the justice was the rejected plea, of which no notice was taken in that Court. The cause was submitted to the Court. The plaintiffs proved by their attorney that the note described in the declaration was in his hands some time before the commencement of this suit; that he had commenced á previous action upon it in the Hancock Circuit *Court; that for the purpose of proving the execution of the note by the makers, he had inclosed it, with a dedimus, in a letter directed to the postmaster at Mount Pleasant, Montgomery county, Kentucky, with the view of taking the deposition of a witness residing there; and that this was the last personal knowledge he had of the note. He further stated that he had written to the dead letter office at Washington, making inquiry after the note, but received no information respecting it. This was all the evidence in relation to the loss of the note, except some hearsay testimony which was objected to, and which ought to have been rejected. The attorney was then permitted to testify to the contents of the note, though an objection was made to his doing so. Judgment for the plaintiffs against Depew.
+The first question which presents itself for our consideration is whether an action at law will lie on this note, supposing it to be lost?
+There has been a diversity of judgment in the United States upon the subject of maintaining suits at law upon lost bills against the acceptor; the Courts of some of the States holding the affirmative' and those of others the negative of the proposition. Story on Bills, § 449. In England, after gome clashing of opinion among the judges in various cases, it is finally decided that the indorsee of a lost bill of exchange, indorsed in blank, can not maintain an action in a court of law against the acceptor, though the loss occurs after the maturity of the bill. The decision rests upon the principle of the law-merchant that the acceptor is- entitled to receive the bill when he pays it, in order to guard himself against a second liability, and that he may possess a voucher in his dealings with the drawer. And it makes no difference, though a subsequent holder might be defeated in an action on the bill by proof of its previous loss and payment, and of his having acquired it after maturity, it being unreasonable to throw the burthen of such proof on the acceptor. The remedy is in equity, where the acceptor may have adequate indemnity against any future claim in consequence of the lost bill. Hansard v. Robinson, 7 B. & C., 90. But if the bill, when lost, had not been transferred, or been indorsed in full (an indorsement being necessary to transfer it), the *payee, or the indorsee, may maintain an action against the acceptor, because no subsequent holder could show a title to the bill so as to maintain an action upon it. Long et al. v. Bailie, 2 Campb., 214, n. See, also, Rolt v. Watson, 4 Bing., 273.
+If we grant, what we do not decide, that these principles are applicable to the note sued on, which, though not governed by the law merchant, is transferable by indorsement under our statute, still we see no reason why this suit should not be maintained so far as the question under consideration is concerned. The note is averred in the declaration to be lost, but there is no averment, or proof, that it was ever indorsed by the plaintiffs. There was testimony that if it be lost, it was lost from the possession of the agent of the plaintiffs. This, we think, raises a fair presumption, that they never transferred it; and of course no other holder can show title to it. The makers are in no danger of a second liability.
+C. C. Nave, for the appellant.
+W. W. Wielz and L. Barbour, for the appellees.
+The nest question is as to the sufficiency of the proof of the loss of the note to let in parol evidence of its contents. In our opinion the proof was not sufficient. The statement of the witness renders it. very probable, that the note reached the hands of the postmaster in Kentucky to whom it was directed. For aught that appears it is still in his hands. There should have been some evidence of the disposition made of it by him. The Circuit Court erred in receiving parol evidence of the contents of the note.
+There is also another error in the proceedings. The action was commenced against two defendants. Before a legal judgment could be taken against one of them, the action being founded on contract, it should have appeared that the other was not found. This does not appear by the justice’s transcript or any other part of the record.
+It is contended that the plaintiffs were bound to prove the execution of the note by Depew, in consequence of the plea of non-assumpsit under oath sent up by the justice. We do not think so. The plea having been rejected by the justice constitutes no part of the record.
+Per Curiam.—The judgment is reversed with costs. Cause remanded, &c.
