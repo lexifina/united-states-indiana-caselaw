@@ -1,0 +1,26 @@
+---
+court: "Supreme Court of Indiana"
+decided: "1844-11-27"
+citations: ["7 Blackf. 256"]
+reporter: "blackf"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hanna v. The Board of Commissioners, &c."]
+source_url: "https://static.case.law/blackf/7/cases/0256-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1382866
+---
+
+# Hanna v. Board of Commissioners
+
+## Majority (Dewey, J. Per Curiam.)
+
+Dewey, J.
+— The board of commissioners of Tippecanoe county, at their December term, 1843, passed an order, by which they leased to one Pierce a parcel of the public square in the town of Lafayette for his private use, in the erection of a house there, with the power of subleasing. Within thirty days from the date of the order, Hanna, the plaintiff in error, filed in the office of the clerk of the board of commissioners an affidavit, setting forth that he was directly and indirectly interested in the matter of the cyder; that he owned improved property in Lafayette, lying opposite to that part of the public square included in the lease, and separated from it by a street; that the value of his property would be lessened by the erection of buildings on the leased premises ; and that he was interested in the public square, as a citizen of the county, and claimed the right to object to its being put to an improper use. He, also, filed an appeal-bond conditioned according to law ; and claimed an appeal from the order of the board to the Circuit Court. A transcript of the order, the affidavit, and the appeal-bond, were filed in the office of the clerk of the Circuit Court in due season. The commissioners appeared and moved the Court to dismiss the appeal. The motion was granted on the ground, as the record informs us, u of defects apparent on the face ” of the transcript, the affidavit, and the appeal-bond.
+It is not contended here, that there is any defect in the form of any of the appeal-papers, or that Hanna did not show such an interest in the subject-matter of the order as to entitle him to an appeal, provided the law allows an appeal at all in such a case. But the defendants in error vindicate the dismissal of the appeal, on the ground that the order granting the lease was a mere ministerial act, from which no appeal lay; and on the ground that Pierce was not made a party to the appeal.
+The statute which governs this case provided, that, u from all decisions of the several boards of county commissioners,” there should be allowed an appeal by any person aggrieved. R. S. 1838, p. 156. Doubtless, the boards of commissioners are directed by law to do certain things which are purely ministerial, and which are to be done without airy previous conclusion of the judgment of the actors; and they may be clothed with some powers, the exercise of which is entirely discretionary. In such instances no appeal lies from their acts. But we do not conceive the order appealed from to be one of them. We are acquainted with no statute which directs, or expressly authorizes, the boards of commissioners to lease out, or otherwise dispose of, the public squares in the county seats for private uses. If they possess such a right, it must be implied from their general powers ; and the order passed by the commissioners of Tippecanoe county, if it be not itself a “ decision,” implies a decision of a very important character, namely, that they possessed such a jurisdiction over the public square in Lafayette, as authorized them to convert a part of it into private property. Whether they hold such a power may not be entirely a question of law; it may depend somewhat upon the terms and conditions on which the public square is held by the county. But we do not intend now to settle any thing with regard to the right of county commissioners, under their general powers, to dispose of public squares, or to question the authority of the commissioners of Tippecanoe county to pass the order which they did pass. Our remarks are designed only to show, that the order amounts to a “decision” from which an appeal >y.
+A. Ingram and R. Jones, for the plaintiff.
+Z. Baird, for the defendants.
+As to the other point, we think Pierce must be made a party to the appeal to the Circuit Court, before that Court can try it. He was a party to the order, and had a direct interest in it. But we do not think his not being summoned at the first term of the Court after the appeal was taken, was a good cause for dismissing the appeal. When an appeal is taken in vacation (as this was) from a decision of a board of county commissioners, the appellant is bound to cause the appellee to be summoned to answer it; and if the summons be served ten days before the first day of the next succeeding term of the Circuit Court, the cause stands for trial at that term. R. S. 1838, p. 156. It is the service of the summons, and not the taking of the appeal, which makes the appellee a party to the appeal; and we think that, under the circumstances of this case, the plaintiff in error is yet entitled to summon Pierce into the Circuit Court.
+Per Curiam.
+— The judgment is reversed with costs. Cause remanded, &c.
