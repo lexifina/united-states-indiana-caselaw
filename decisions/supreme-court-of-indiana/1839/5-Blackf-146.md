@@ -1,0 +1,29 @@
+---
+court: "Supreme Court of Indiana"
+decided: "1839-05-28"
+citations: ["5 Blackf. 146"]
+reporter: "blackf"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Richardson v. The St. Joseph Iron Company."]
+source_url: "https://static.case.law/blackf/5/cases/0146-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1379356
+cites_cases: ["12 Wheat. 64", "4 Blackf. 267"]
+---
+
+# Richardson v. St. Joseph Iron Co.
+
+## Majority (Blackford, J. Per Curiam.)
+
+Blackford, J.
+The St. Joseph Iron Company brought an action of assumpsit against Richardson for goods sold and delivered, work and labour, money lent, &c. Pleas, 1st, the general issue; 2ndly and 3dly, payment, with a notice of set-off for work and labour in constructing a lock in a race at the iron works of the company, &c. Demurrer to the third plea, and the demurrer overruled. Verdict for the plaintiffs 468 dollars and 72 cents, and judgment on the verdict.
+The defendant’s first objection to this judgment is, that the declaration does not contain an averment that the plaintiffs are incorporated. It has been heretofore decided by this Court, that such an averment is not necessary. Harris v. The Muskingum Manufacturing Company, 4 Blackf. 267.
+'It is also objected, that though the Circuit Court overruled a demurrer to one of the pleas, no judgment for the costs of the issue in law was rendered for the defendant. It does not appear, however, that such a judgment was askqd for, and its not being rendered, therefore, cannot be assigned for error.
+Another objection is, that a certain .'written agreement offered in evidence by the plaintiffs, was improperly admitted. The facts are as follows: The plaintiffs proved by their clerk,' that the defendant had admitted to him that he had been furnished with the various items of merchandize, cash, &c., contained in a bill 6f particulars exhibited in the cause by the plaintiffs; but that in making this admission, the defendant said that a charge of 50 dollars and some others in the bill, should have been credited on a certain written contract made by him and one White with the plaintiffs for building a lock, &c. The plaintiffs then, to explain this objection of the defendant to some of the items of the account, offered in evidence the contract referred tó by the defendant in his conversation with the witness. The evidence was objected to, but was admitted. We see -no objection to the written contract as evidence. The defendant had made it, by reference, a part of the qualification of his admission, proved by the plaintiffs’ witness.
+A further objection is, that the defendant was not permitted to prove, under his special pleas, that he had done certain work for the plaintiffs. This evidence was objected to by the plaintiffs, on the ground that the work had been done under a written contract between the plaintiffs of the one part, and the defendant and one White of the other part; and that the demand, therefore, was not a legal matter of set-off. To support this objection, the plaintiffs offered in evidence ■ the written contract in question, whicfy was unrescinded. This contract purported to be such a one as the plaintiffs had described, and was signed by “A. M. Hurd, President of the St. Joseph Iron Company,” and by the defendant and White. There was parol proof that, at the time the contract was executed, Hurd was the plaintiffs’ agent respecting the work mentioned in the contract, and that all his acts, as such, were recognized and admitted by the company. Upon this evidence the written contract, though objected to, was admitted. The defendant contends that the agent’s authority was not legally proved, and that the contract was therefore inadmissible. He supposes that the appointment could only be proved by written evidence; but in this he is mistaken. The act of incorporation, which was proved, does not show the appointment to be invalid if it was not reduced to writing; and the consequence is, that its legality cannot be disputed on the ground, that the vote by which it was made, has not been recorded. Bank of the United States v. Dandridge, 12 Wheat. 64. If no writing was essential to the validity of the appointment, the existence of any such writing is not to be presumed, because we are not to suppose that more was done than was necessary to effect the object intended; and in the absence of such a presumption, parol evidence of the appointment must be admissible. But the evidence of the agent’s authority was not only admissible, but it was also sufficient to prove the authority. The witness stated positively the existence of the agency, and its direct recognition by the plaintiffs ; and he was unimpeached. The joint contract, therefore, under which the defendant’s claim originated, was proved to be valid; and the evidence respecting the set-off was correctly rejected.
+The defendant makes one more objection, and that is, that the plaintiffs’ witness, and the only one they introduced, did not prove that the amount due them was as much as the sum found in their favour by the jury. One answer to this objection is, that the record does not profess to set out all the evidence. The defendant’s witnesses may have supplied the deficiency of proof mentioned by him; and we must presume, as the contrary does not appear, that there was sufficient evidence to authorise the verdict. There is another answer to this objection. The record does not show, that the opinion of the Circuit Court was taken as to the sufficiency of the evidence to support the verdict. The clerk, it is true, states that a motion of the defendant for a new trial was overruled, but that statement is no part of the record.
+J. A. Liston, for the plaintiff.
+H. Cooper, for the defendants.
+Per Curiam.
+The judgment is affirmed with costs.
