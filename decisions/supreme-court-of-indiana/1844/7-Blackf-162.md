@@ -1,0 +1,29 @@
+---
+court: "Supreme Court of Indiana"
+decided: "1844-06-15"
+citations: ["7 Blackf. 162"]
+reporter: "blackf"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Pierce v. Gates."]
+source_url: "https://static.case.law/blackf/7/cases/0162-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1382724
+cites_cases: ["2 Blackf. 324"]
+---
+
+# Pierce v. Gates
+
+## Majority (Sullivan, J. Per Curiam..)
+
+Sullivan, J.
+— This was a bill in chancery filed by Gates against Pierce and one Murray, to enforce a lien set up by-the complainant on a tract of land sold by him to Murray, and by Murray to Pierce, for a part of 'the purchase-money. The bill alleges that on the 9th of October, 1838, the complainant sold to Murray the tract of land described in the bill for the sum of 300 dollars; that all the purchase-money except about 116 dollars was paid; that for the residue the notes of Murray, without any security whatever, were taken, part payable in 60' days and part in six months ; that on the same day that complainant sold and conveyed to Murray, the latter sold and conveyed to Pierce; and that Pierce had notice that a part of the purchase-money was unpaid, &c. The answer of Pierce admits the sale by the complainant to Murray and by Murray to Pierce, but denies the notice, and sets up affirmatively that he was informed by the complainant that he had no lien or claim upon the land, and that he would give possession at any time, that he afterwards rented the land to the complainant, &c. The bill was taken as confessed against Murray who, it was admitted, had left the state insolvent; and upon the final hearing the Court decreed for the complainant.
+The equitable lien of the vendor of land upon the land sold for the unpaid purchase-money, where no distinct security has been taken, or the lien otherwise waived, is not denied. Nor is it denied but that the vendor’s lien upon the land may _ be enforced against a purchaser from the vendee with notice. The main question in this case is, whether there is proof of notice. -
+Where an answer denies the allegations of the bill, the statute declares that the complainant shall not have a decree unless the bill be proved by two witnesses, or by one witness and corroborating circumstances. If the complainant have the proof required by .the statute, the decree of the Circuit Court must stand.
+Brown, a witness in the cause, states that a short time after Murray had left the country, he had a conversation with Pierce about the land he purchased from Murray, and which Murray had purchased from Gates; that in that conversation Pierce said “he paid Murray all down for the land,” and “ that he knew that Murray had promised Gates to pay him,” and concluded by saying that “he had run off and never paid him.” The plain import of the foregoing admission is, that at the time of the purchase by Pierce from Murray, the former knew that the purchase-money, or some part of it, was still due to Gates. The remaining proof is circumstantial, but we think it goes to establish the fact that Pierce had notice, at the time he purchased from Murray, that at least a portion of the purchase-money, on the sale from Gates to Murray, remained unpaid. It appears that Gates lived on the land about eight miles distant from Logansport., that Pierce wished to purchase the land, and, on the day previous to the sale to Murray, had examined it and offered Gates 250 dollars for it which he refused, but offered to sell for 300 dollars. Pierce refused to buy at that price and returned to Logansport. The next morning before breakfast, Murray came to the house of Gates, and after a very slight examination of the land proposed to purchase it, offering Gates his price, viz., 300 dollars. The parties agreed, and on the next day the land was conveyed to Murray, and Murray, on the same day that he received a conveyance, conveyed to Pierce. It further appears, that Pierce resided in Logansport, that Murray boarded with him, and that the horse that Murray rode to the house of the complainant when he came to purchase the land,- was the same horse that the defendant rode the previous day. Without saying any thing about the fraud which may be imputed, to the defendant, we think it is fairly inferible from the circumstances that Murray purchased with the knowledge, if not for the use of Pierce; and if he did so, it is very improbable that Pierce was left uninformed of the terms of the contract. There is moreover in the depositions taken by the defendant, no proof that his purchase from Murray was for a valuable consideration. His statement to Brown is all the testimony on the sübject. The matter as between them seems, so far as it is made to appear to us, to have been transacted in secret, a circumstance which, connected with other circumstances in the case, throws suspicion on the transaction.
+H. Chase, for the plaintiff.
+D. D. Pratt, for the defendant.
+There is one other question raised which must be noticed. The plaintiff in error contends that the affirmation in his answer, that Gates informed him that he had no claim or lien on the land, must stand as true unless disproved by the complainant. In this he is mistaken. It is a new fact introduced into the case by which the defendant seeks to discharge the land from the lien which the complainant claims. It is set up in avoidance of the complainant’s equity, and must therefore be proved by the party asserting it. 2 Blackf. 324. — 3 id. 18.
+We concur with the Circuit Court in the opinion, that Pierce purchased from Murray with notice of the complainant’s equity, and that the latter has a lien upon the land for so much of the purchase-money as remanas unpaid.
+Per Curiam..
+— The decree is affirmed with costs.
