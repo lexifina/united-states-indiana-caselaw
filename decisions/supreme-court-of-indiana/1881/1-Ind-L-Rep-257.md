@@ -1,0 +1,29 @@
+---
+court: "Supreme Court of Indiana"
+decided: "1881-05-13"
+citations: ["1 Ind. L. Rep. 257"]
+reporter: "ind-l-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William Cory et al. v. Josiah Swagger."]
+source_url: "https://static.case.law/ind-l-rep/1/cases/0257-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6683540
+cites_cases: ["21 Ind. 246", "49 Ind. 482", "50 Ind. 583", "51 Ind. 64", "52 Ind. 181", "55 Ind. 166", "55 Ind. 320", "58 Ind. 64", "58 Ind. 88", "59 Ind. 158", "59 Ind. 164", "60 Ind. 206", "62 Ind. 79", "66 Ind. 188", "68 Ind. 114", "69 Ind. 304", "7 Ind. 500"]
+---
+
+# Cory v. Swagger
+
+## Majority (Mr. Justice Elliott.)
+
+Opinion of the court by
+Mr. Justice Elliott.
+The appellee petitioned the board of commissioners of Grant county “ to establish a ditch;” the prayer of the petition was granted and the ditch established. Appellants carried the case by appeal to the circuit court, where trial was had, resulting in a verdict and judgment in favor of the appellee.
+Motions were made to dismiss appellee’s petition and to set aside the report of the reviewers. These the court overruled.
+Appellants urge in support of their attack upon the petition that it is insufficient, because it does not properly describe the ditch sought to be established. The description is as follows : “ Said ditch is to commence at a point about forty rods west of the east line of section 13, T. 25, N. R. 9 E , in said county, and about thirty rods south of the north line of the south-east quarter of said section, running thence west about 120 rods to the middle line of said section, running north and south ; thence north on said middle line about twenty rods to the center of said section; thence due west about sixty rods; thence north-eastwardly about one hundred and sixty (160) rods, crossing the north line of said section at a point about forty (40) rods west of the center of said north line into section twelve (12), T. 25, N. R. 9 E., in said county; thence north-east about one hundred and twenty (120) rods, crossing the north line of the south-east quarter of section twelve (12) at a point about forty (40) rods east of the west line of said quarter section; thence north-westwardly about one hundred rods to a point at or near the center of said section twelve (12), and thence north a distance of about eighty (80) rods or more, and terminating on the south bank of Black Creek, being about two miles in length or more.”
+The second section of the act under which these proceedings were instituted require a petition setting forth the necessity for the proposed ditch, “ with a general description of the proposed starting point, route and terminus.” 1 R. S., 428. The appellee’s petition does give a “general description ” of starting point, route and terminus. The use of the word “about,” taken in connection with the words restraining and limiting its meaning, does not materially impair the certainty of the description. In the cases of Scraper v. Pipes, 59 Ind. 158; DeLong v. Schimmel, 51 Ind. 64, and Farmer v. Pimly, 50 Ind. 583, there were no words restricting the application of the indefinite terms “ about ” and “ near.” Here these terms are carefully restricted by giving the section, town and range, and by stating with reasonable accuracy the courses and distances. Spahr v. Schofield, 66 Ind. 188 ; Milligan v. Bittinger, et al., 60 Ind. 206.
+It is contended that the petition is insufficient because it does not set forth the necessity for the proposed ditch. The statute does in express terms require that a petition shall be filed “ setting forth the necessity of the proposed ditch.” The petition does not in terms aver that there is any necessity for the ditch, nor does it attempt to specifically state facts directly showing a necessity for the establishment of the ditch petitioned for. It does, however, aver, “ that the construction of the proposed ditch will be conducive to the public health, convenience and welfare, and will be of public benefit and utility.” We think a ditch which “is conducive to the public health, convenience and welfare,” and which is also of “public benefit and utility” may be justly regarded as necessary. It is evident that the legislature did not use the word necessity as meaning that “ which is absolutely requisite,” but as meaning that “which is essentially requisite.” Certainly what will benefit the public and conduce to the general health and welfare, may be regarded as “possessing the quality of being necessary.’"' The statements of the petition show, with reasonable certainty, that there was a necessity for the establishment of the ditch.
+The overruling of appellants’ motion to set aside the report of the reviewers, even if erroneous, did them no harm. The cause stood for trial de novo, in the circuit court, and the report of the reviewers had then no force or effect whatever. Whether it was correct or not, was of no possible importance, for the trial in the circuit court could not be affected by it in the slightest degree. Turley v. Oldham, 68 Ind. 114; Beck v. Parrey, 69 Ind. 304.
+The appellants’ assignment of error, based upon the ruling denying a new trial, must be sustained. The court, over the objection of the appellants, permitted the report of the reviewers to be read in evidence. This was plainly erroneous. McKinsey v. Bowman, 58 Ind. 88; Freeh v. Christian, 55 Ind. 320; Turley v. Oldham, supra; Beck v. Parrey, supra; Coyner v. Boyd, 55 Ind. 166.
+Other questions are discussed, but it is not necessary for us to consider them, as the cause must be again tried, and it is not probable that these questions will again arise, nor is it important to the rights of the parties that we should now pass upon them.
+Judgment reversed.
