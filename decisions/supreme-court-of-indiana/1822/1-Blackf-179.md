@@ -1,0 +1,25 @@
+---
+court: "Supreme Court of Indiana"
+decided: "1822-05-10"
+citations: ["1 Blackf. 179"]
+reporter: "blackf"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Steele and Others v. Murray and Another."]
+source_url: "https://static.case.law/blackf/1/cases/0179-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1389378
+cites_cases: ["10 Mass. 59", "21 J. 1"]
+---
+
+# Steele v. Murray
+
+## Majority (Scott, J. Per Curiam)
+
+Scott, J.
+A fieri facias was issued in favour of Steele and Co. against Murray and Gray on a replevin bond, and returned “No goods or chattels, and not levied on real estate by order of the plaintiff’s attorney.” The plaintiffs then sued out a ca. sa., on which the defendants were taken into custody. The Court, on motion of the defendants, quashed the ca. sa. on the ground that the plaintiffs could not abandon one species of execution, and resort to another. We think this ground untenable. ' A plaintiff may sue out one writ of execution, and, before it is executed, may abandon it, and sue out another of a different sort; or, after it is executed and returned, if a part only of the judgment be levied, the plaintiff may have another writ of the same or of a different sort, at his election. 2 Tidd, 912. — 1 Sellon, 536-7 .
+Per Curiam
+The judgment is reversed, with costs. To be certified, &c.
+A plaintiff, having sued out a fi. fa., may, if he pleases, omit to execute it, and may take out a ca. sa. and execute that before the fi. fa. is returned or returnable. But if he does execute his fi. fa., he cannothave a ca. sa. till the fi. fa. is executed and returned. He may sue out both those processes together, if he will, and may use either the one or the other as he sees advisable; but by using the fi. fa. first, he makes his election, and after having so elected, he cannot use the other process till after the return of the first. If goods be taken under the fi. fa., the plaintiff cannot, before its return, sue out a ca. sa., though he abandons the seizure of the goods. Miller v. Parnell, 6 Taunt. 370.
+If the defendant, taken on a ca. sa., escape, or be rescued, or die in prison, the plain tiff may sue out a new execution. Bing. on Judg. 256. He could not in the latter case, at common law, Foster v. Jackson, Hob. 52, though now by statute he may. 21 J. 1. c. 24. — Ind. Stat. 1823, p. 193. The sheriff’s discharge of the defendant out of execution, without the plaintiff’s consent, is no bar to a subsequent suit on the judgment. Appleby v, Clark, 10 Mass. 59. If, however, the plaintiff consent to his discharge, on his undertaking to pay at a future day, he cannot afterwards sue out any execution on the judgment, in the event of the defendant’s not fulfilling his undertaking. Tanner v. Hague, 7 T. R. 416. Nor can a defendant be taken in execution twice on the same judgment, though he fail to perform the agreement on which the plaintiff’s consent to his first discharge was given, and thqugh he had expressly agreed to be liable, on such failure, to be taken again. Blackburn v. Stupart, 2 East, 243.
+A discharge by the plaintiff’s consent of one of several defendants, taken on a joint ca. sa., is a discharge of all from execution affecting the person. Clark v. Clement et al. 6 T. R. 525. Aliter, if one b.e discharged under an insolvent act. Nadin v. Battie, 5 East, 147. And where, in an action on a judgment against three, one not being found, the other two pleaded that they w?re sureties for the other in the bond on which the judgment was rendered; that the plaintiffs, the U. Slates, had sued out a ca. sa. on that judgment against the principal and imprisoned him; and that on his paying costs and conveying his property to the plaintiffs, they had released him from execution ; the plea was. adjudged insufficient. The Court said, that at common law the release of a debtor whose person is in execution, is a release of the judgment itself; yet that the body is not satisfaction in reality, but is held as the surest means of coercing satisfaction: that the law will not permit a man to proceed at the same time against the person and estate of his debtor; and that when the creditor has elected to take $he person, it presumes.satisfaction, if the person be voluntarily released: that the release of the judgment is, therefore, the legal consequence of the voluntary discharge of the person by the creditor. But the Court further said, that the act of congress authorizing a XJ. Slates' debtor to be discharged from, imprisonment upon a conveyance of his property, by providing that the judgment shall remain good and sufficient in law, and may be satisfied out of any estate which may then ot; at any time afterwards belong to the debtor, had guarded against the release of the judgment in the case before them, which the voluntary discharge of the debtor wo.u^l have otherwise occasioned. The United States v. Stansbury et al., 1 Peters, 573.
