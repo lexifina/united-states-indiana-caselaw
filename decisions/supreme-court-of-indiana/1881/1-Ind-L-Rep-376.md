@@ -1,0 +1,51 @@
+---
+court: "Supreme Court of Indiana"
+decided: "1881-05-24"
+citations: ["1 Ind. L. Rep. 376"]
+reporter: "ind-l-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John H. Shorts v. John Awalt et al."]
+source_url: "https://static.case.law/ind-l-rep/1/cases/0376-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6685323
+cites_cases: ["13 Ind. 161", "16 Ind. 223", "5 Ind. 519"]
+---
+
+# Shorts v. Awalt
+
+## Majority (Mr. Justice Worden.)
+
+Opinion of the court by
+Mr. Justice Worden.
+On November 4, 1875, William G. Parker executed to Uriah D. Shorts his fi ve several promissory notes, not governed by the law merchant, each for the sum of two hundred dollars, payable respectively in one, two, three, four and five years. At the same time he executed a mortgage on an eighty acre tract of land in Ripley county to secure the payment of the notes.
+This action was brought by John H. Shorts, as the assignee of the notes, to foreclose the mortgage, and William Lewis and his wife, John Await, Oliver Wells, administrator of the estate, and William G. Parker, were made defendants.
+All ot the defendants made default except Await, who answered, setting up a purchase of the land mortgaged, under certain attachment proceedings against Uriah D. Shorts, in which Parker was garnished.
+Some questions are made on the pleadings, but as the same questions, in substance, arise on the special finding of the facts, which presents the legal merits of the case, we deem it unnecessary to consider further the pleadings.
+The cause was submitted to the court 'for trial, and, at the request of the plaintiff, the court found the following facts, and stated conclusions of law thereon.
+“First. On the 4th day of November, 1875, one William G. Parker made and executed to one Uriah D. Shorts, by the name and style of W. G. Parker, his five several promissory notes, each calling for two'hundred dollars; said notes payable in one, two, three, four and five years from date; and to secure said notes at the same time executed a mortgage upon the following real estate, in Ripley county, Indiana, to-wit: The west half of the northwest quarter of section thirty-four, town nine, north of range twelve, east; the said notes and mortgage being the same sued upon in this action; that afterwards the said Uriah D. Shorts assigned said first note, by indorsement, to one William Selking, who, in February, 1877, assigned the same, by delivery, to the said John H. Shorts, the plaintiff herein; that about the 1st of December, 1875, the said Uriah D. Shorts assigned the other four of said notes to the said plaintiff, by endorsement.
+“Second. That, on the 10th day of February, 1876, John Await, one of the defendants herein, commenced his action, in this court, against the said Uriah D. Shorts, William G. Parker, and auxiliary thereto, a proceeding in foreign attachment against the said Uriah D. Shorts, and a proceeding in garnishment against the said Parker; that due and legal notice was given to the said Uriah D. Shorts, by publication of the commencement and pending of said action, and proceeding in attachment; that due and legal notice, by summons personally served, to appear and answer as such garnishee, was given to said Parker ; said summons was served by reading on the 23th day of March, 1876; that said Parker appeared in obedience to said summons, and filed his answer, admitting his indebtedness to the said Uriah D. Shorts, upon said notes; which answer was filed on the- 19th day of May, 1876, at the April term of said court; that there was nothing averred in said answer about the assignment of said notes and mortgage, or either of them, to the plaintiff herein, or to any one else; that, on the said day, and at the same term of said court, the said Uriah D. Shorts was defaulted; that, on the 6th day of September, 1876, at the September term of this court, a judgment was rendered in said action for the sum of $240.70, and costs of suit, against said Parker, as garnishee, on account of and upon said notes, and an order for the sale of said mortgaged premises in default of payment, as said notes should mature and not be paid ; that, on the 6th day of November, 1876, execution and order of sale issued upon said judgment, to the sheriff of said county of Ripley, who, on the 9th day of December, 1876, after having levied said execution and order of sale upon said real estate, and having duly advertised the same, and taken such other steps as are required by law, sold the same to the said John Await, for the sum of $316.70, who then and there paid the amount of his bid, and said sheriff then and there executed to him a certificate of purchase.
+“Third. The court further finds that when said suit and attachment proceeding was instituted, and notice given, and the said summons served upon said Parker, the said Uriah D. Shorts was a non-resident of the State of Indiana.
+“Fourth. It is further found that the said Await and the said Parker had no notice of the assignment of said notes, or any of them, by the said Uriah D. Shorts, until after the sale to the said Await by said sheriff.
+“Fifth. It is further found that the said John H. Shorts paid $185.00 to the said Selking for the said note purchased of him, and about $325.00 for the other four of said notes purchased of the said Uriah D. Shorts; that the said Uriah D. Shorts sold said notes to enable him to pay a part of his indebtedness, and to get money with which to go to Iowa, and not to defraud creditors.”
+“ The conclusions of law, from the facts so found, are :
+“First. The plaintiff having purchased the notes for value, and in good faith, is the absolute owner and holder thereof.
+“ Second. That the owner, by assignment of promissory notes not payable in bank, holds the same subject to all legal rights of third -persons, acquired against the maker on account of the indebtedness, before the notice to the maker of the assignment.
+“Third. That the owner, by assignment of promissory notes, not payable in bank, cannot disturb the legal rights of a third person, acquired through a judicial proceeding against the maker of the notes, before notice to the maker, and such third person, of the assignment, the court, in which such proceedings are had, having jurisdiction of the subject matter and of the parties.
+Fourth. In an action and proceedings in foreign attachment, this court has jurisdiction of the subject matter of the action when there is a proceeding in garnishment, and the party garnished is indebted to the principal defendant, and the indebtedness is secured by mortgage upon real estate situated in this county, and has jurisdiction of the parties where the principal defendant is a non-resident of the State and the garnishee is a resident of the State, but of another county, where due and legal notice has been given to the principal defendant by publication, and summons has been personally served upon the garnishee, who appears and answers, admitting the indebtedness.
+“ The finding, therefore, must be for the defendants.”
+Judgment was therefore rendered for the defendant, the plaintiff having excepted to the conclusions of law.
+The plaintiff moved for a new trial, and for a venire de novo, but these motions were respectively overruled.
+We are of opinion that the conclusions of law on the facts found were substantially correct.
+Parker had given his notes not governed by the law merchant, to Uriah D. Shorts, and a mortgage to secure their payment.
+The statute in relation to such notes provides that, “whatever defense or set-off the maker of such instrument had before a notice of assignment, against an assignor, or against the original payee, he shall have also against their assignees.” 1 R. S. 1876, p. 636, § 3.
+Therefore, in the absence of any notice of assignment of the notes, the debt might be the subject of garnishment at the suit of Await against Uriah D. Shorts the payee. A standard writer says, that, “ wherever notice of assignment is required to be given by the assignee to the maker, there can be no good reason why the latter should not be held as garnishee of the payee, at any time before he receives such notice; but on the contrary, unquestionable reasons why he should.” Drake on Attach. 4 Ed. § 575.
+The point is well settled by the decisions of this court. Covert v. Nelson, 8 Blackf.,265; Shetler v. Thomas, 16 Ind. 223; see also, Hooker v. Daniels, 5 Ind. 519; and The Junction Railroad Co. v. Cleneay, 13 Ind. 161.
+The statute on the subject is broad enough to justify a foreclosure of the mortgage against Parker, in the attachment proceedings, as in other cases. Code, § 178.
+The mortgage having been foreclosed in the attachment proceedings, and the land having been purchased by Await under those proceedings, he holds it discharged of the mortgage. He is not liable for the debt of the plaintiff, nor is the land in his hands liable therefor.
+In respect to the motion for a new trial, it is urged that the court erred in admitting in evidence the record of the proceedings in attachment, inasmuch as the appellant was not a party to those proceedings.
+It was not necessary that the appellant should have been a party in order to render the evidence competent. He was not known to be a necessary or proper party. He was guilty of laches in not giving Parker notice that he held the notes, whereby the mortgage was properly foreclosed on the assumption that the original payee still held them.
+It is also earnestly insisted that the finding of the court as to the non-residence of Uriah D. Shorts at the time of the institution of the attachment proceedings, was not sustained by the evidence.
+Without stopping to consider whether that question could be inquired into in this collateral action, we remark that we have examined the evidence, and, while it was conflicting, it is clear that there was evidence in support of the finding upon that point.
+There was no valid ground for either the motion for a new trial, or that for a venire de novo; and what we have said covers the substantial merits of the case.
+The judgment below is affirmed with costs.
