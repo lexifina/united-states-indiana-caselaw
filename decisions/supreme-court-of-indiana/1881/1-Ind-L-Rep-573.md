@@ -1,0 +1,50 @@
+---
+court: "Supreme Court of Indiana"
+decided: "1881-06-15"
+citations: ["1 Ind. L. Rep. 573"]
+reporter: "ind-l-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James M. Stockton et al. v. Joseph S. Stockton."]
+source_url: "https://static.case.law/ind-l-rep/1/cases/0573-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6687094
+---
+
+# Stockton v. Stockton
+
+## Majority (Mr. Justice Niblack.)
+
+Opinion of the court by
+Mr. Justice Niblack.
+Action by Joseph S. Stockton against James M. Stockton and Mary Stockton, his wife, to enforce a vendor’s lien against several tracts of land.
+The complaint was in four paragraphs.
+The first paragraph alleged the sale of an eighty tract of land to the said James M. Stockton, and a conveyance of it, at his request, to the said Mary.
+The other three paragraphs severally alleges the sales and conveyances of other tracts of land to the said James M. Stockton.
+Balances were claimed- to be due upon all the tracts of land thus sold and conveyed.
+Mary Stockton answered the first paragraph of the complaint.
+First. In general denial.
+Second. Payment in full by her co-defendant.
+Third. By way of answer and cross-complaint, averring the existence of an older judgment-lien upon which the land had been sold upon execution, and asking that the plaintiff might be enjoined from prosecuting his suit.
+James M. Stockton, also, answered, generally denying the complaint and averring payment in full for all the tracts of land purchased by him of the plaintiff.
+A demurrer was sustained to the cross-complaint, otherwise known as the third paragraph of the said Mary Stockton’s answer, and a jury to which, after issue joined, the cause was sent for trial, returned a verdict finding balances to be due to the plaintiff upon each paragraph of the complaint.
+After considering and overruling a motion for a new trial, the court rendered judgment against the defendant, James M. Stockton, for the amounts so found to be due, and decreed these several amounts to be liens against the respective tracts of land described in the complaint.
+It is complained—
+First. That the court erred in sustaining the demurrer to the cross-complaint of Mary Stockton.
+Second. That the court erred in refusing to grant a new trial in the cause.
+Counsel for the appellants refer to the cross-complaint as a paragraph of the answer of Mary Stockton, and insist upon its sufSeieny as an answer.
+We have repeatedly decided that á single pleading cannot be both an answer and a cross-complaint, and that every pleading must be classified in accordance with the character which its substantial averments impress upon it.
+The pleading before us asked for affirmative relief/and was, in all its essential features, a cross-complaint. Arguments/ therefore, addressed to its sufficiency as an answer, raise no question upon it as a cross complaint, and establish nothing in support of the alleged error of the court in sustaining a demurrer to it.
+Upon the trial the plaintiff introduced some deeds in evidence to sustain, in part, the allegations of his complaint. These were short-form deeds, each purporting to be in consideration of a specified sum of money, but containing no words acknowledging the receipt of the purchase-money.
+The material question at the trial was as to whether full payment had been made for the lands described in the deeds which had then been read in evidence.
+James M. Stockton testified that he assumed to pay certain debts and liens upon the lands, as the only consideration for their conveyance to him and the said Mary respectively, and that he had paid all of said debts and liens as he had agreed to do.
+The plaintiff on his part testified that the payment of such debts and liens constitute only a part of the consideration for which the conveyances were made, and that balances on the purchase-money were due him upon each tract described in the deeds.
+No other witness claimed to have any knowledge of the precise terms upon which the conveyances were made, but circumstances in supposed corroboration were respectively relied upon.
+The court, at the request of the plaintiff, instructed the jury as follows: “ Gentlemen of the jury—The deeds of conveyance of certain real estate from the plaintiff to the defendants, have been read in evidence. I instruct you as a general proposition of law, that where a deed expresses the consideration and contains an ac-knowledgement that the consideration has been paid, as for example, ‘ I., A. B., in consideration of the sum of-dollars, the receipt whereof is hereby acknowledged, do hereby convey to C. D. the following real estate, etc,’ such words will be prima facie evidence that the consideration has been paid, but such prima facie evidence may be explained or contradicted. In this case, however, I do not understand that the deeds which have been read in evidence contain these (words), or similar words to the same effect. But I give you the foregoing instruction as a general proposition of law, and, if said deeds do contain these words, or words to their effect, then the instruction is applicable to this case, and you will take it as the law upon this subject.”
+R. C. & W. B. Gregory, for appellant.
+Jones <fc Royse, for resident legatee of appellee.
+Counsel for the appellants claim that this instruction was erroneous, because of its inapplicability to the evidence, and of its consequent tendency to confuse and mislead the jury.
+The instruction would evidently have been more appropriate to the occasion if it had given an absolute construction to the language used in the deeds which had been read in evidence, instead of announcing a general principle applicable only to another class of deeds, but as an abstract proposition it gave the law correctly, and we are unable to see that any inference, injurious to the appellants, could reasonably have been drawn from it in the form in which it was given.
+A judgment will not be reversed because of the inapplicability of an instruction to the evidence, unless its inapplicability was presumably injurious to the party complaining of it.
+No sufficient reason has been shown for a reversal of the judgment.
+The judgment is affirmed with costs.
