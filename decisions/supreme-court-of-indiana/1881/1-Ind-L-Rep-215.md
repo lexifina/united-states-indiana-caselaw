@@ -1,0 +1,29 @@
+---
+court: "Supreme Court of Indiana"
+decided: "1881-04-27"
+citations: ["1 Ind. L. Rep. 215"]
+reporter: "ind-l-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Andrew H. Hamilton et al. v. City of Fort Wayne."]
+source_url: "https://static.case.law/ind-l-rep/1/cases/0215-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6682788
+---
+
+# Hamilton v. City of Fort Wayne
+
+## Majority (Mr. Chief Justice Niblack.)
+
+Opinion of the court by
+Mr. Chief Justice Niblack.
+In the year 1873, the common council of the city of Fort Wayne passed an ordinance “ to open and extend Clinton street from the south line of Lewis street, parallel with Calhoun street, to the north line of Holman street.”
+This ordinance extended Clinton street over lands belonging to the appellants, Andrew H. Hamilton, Emerine J. Hamilton, Montgomery Hamilton, Mary Williams, Margaret H. Hamilton and Ellen Hamilton, and commissioners were directed to assess the damages and benefits which would result to the owners of lands over which the extended portion of such street would pass.
+The commissioners, amongst other things, reported that no damages would result to a portion of the lands of the appellants, and the appellants, within thirty days, appealed to the circuit court of the county, where, on motion of the appellee, the appeal was dismissed upon the ground that such an appeal was not authorized by law.
+Section 66 of the act concerning the incorporation of cities (R. S. 1876, vol. 1, 302), referring to reports made by commissioners in cases like this, provides that “ any owner of land or representative thereof, aggrieved by such report, may appeal therefrom at any time within thirty days after the filing thereof, to any court having jurisdiction of the same, upon filing the usual bond with the city clerk for costs.”
+The question presented to us is: Did this section of the statute authorize the appeal in this case from the common council to the circuit court ?
+We think it did.
+The circuit courts of this State are courts of general jurisdiction, and in addition to their original jurisdiction they have “ such appellate jurisdiction as is, or may be, provided by law.” When appeals from inferior tribunals are authorized, and no express direction is otherwise given, the circuit courts necessarily take cognizance of such appeals under their general appellate jurisdiction.
+Section 66, supra, gives an appeal to any court having jurisdiction of such appeals, and, for the reasons given, the circuit courts have jurisdiction of the class of appeals to which that section refers.
+Any other construction would destroy the value of the appeal reserved by that section.
+The judgment is reversed with costs, and the cause remanded for further proceedings.
