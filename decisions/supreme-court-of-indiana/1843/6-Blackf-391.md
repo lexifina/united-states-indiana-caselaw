@@ -1,0 +1,33 @@
+---
+court: "Supreme Court of Indiana"
+decided: "1843-05"
+citations: ["6 Blackf. 391"]
+reporter: "blackf"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["*L. D. McNeely and Others, Heirs, v. Rucker."]
+source_url: "https://static.case.law/blackf/6/cases/0418-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6118197
+cites_cases: ["12 Mass., 456", "24 Ind., 231", "31 Ind., 56", "5 Blackf., 123"]
+---
+
+# McNeely v. Rucker
+
+## Majority (BuaCKFORD, J.)
+
+BuaCKFORD, J.
+This was an action of disseisin, brought by Elzy Eucker against James MeNeely. Plea, not guilty. Verdict and judgment for the plaintiff.
+The plaintiff claimed title to the premises by virtue of a conveyance from Claiborne Rucker and Nancy his wife; and the defendant claimed them under a conveyance of the said Nancy, executed after the decease of her husband.
+On the trial, the plaintiff offered to read, from the record book of the county, a copy of the deed under which he claimed, having first given evidence respecting the loss of the original, and proved the copy to'be a true one. The copy was objected to, but was admitted. It has already been decided by this Court, upon evidence similar to that given in the present cause, that the copy in question was admissible evidence; Rucker v. McNeely, 5 Blackf., 123; and we are still of the same opinion.
+The defendant offered to prove, by parol,-the contents of a lease for the premises, alleged to have been executed by Claiborne Rucker to one Cartmill, before the date of the Conveyance to the plaintiff. The evidence was objected to, and the objection sustained. A subpoena duces tecum had been served upon Cartmill in order that the lease might be produced; and he was sworn as a witness. The subpoena had been served only three or four days before the trial; and the witness said that he had not had time to search all his papers to find the lease, but that he had made some search in the most probable places; that he might have destroyed it, but he did not recollect to have done so; that he had not seen it for a year; and that since he was subpoenaed, he had been at home two or three times for a night, and searched as aforesaid, &c. We think the loss of the lease was not sufficiently proved to authorize the admission of parol testimony of its contents.
+The defendant offered Nancy Rucker, his grantor, as a witness. It was admitted that she was the widow of said Claiborne Eucker; that the premises in dispute were hers in fee simple before her marriage; that the Conveyance to the-plaintiff by her and her husband, purported to be executed by them in consideration of their love and affection for the plaintiff, who was the grandson of said Claiborne; that since the death of her husband she had conveyed the premises to the defendant in consideration of $250 with a covenant of warranty; but that the defendant had, on the day of the trial, released her from the covenant. The defendant proposed to prove by this witness, that she had signed, sealed, and acknowledged the deed to the plaintiff, but had not delivered it; that after it was sent to be recorded as aforesaid, (that is, as the subscribing witness, examined by the plaintiff, had stated, after said Claiborne had sent it, in presence of said Nancy, to the recorder to be recorded), it never again came into the possession of said Claiborne; that this witness had signed, sealed, and acknowledged the deed to the plaintiff under a misapprehension of her legal rights—she being informed and believing that, the land, in consequence of her marriage, belonged to her husband in fee simple; and that it was necessary to convey it to' the plaintiff, to prevent its being taken for her husband’^ debts, he being greatly embarrassed; and that she was induced to-sign, seal, and acknowledge the conveyance by the duress and menaces of her *husband, and on condition that it should not be delivered.. The witness was objected to as incompetent^ and the objection sustained.
+According to the evidence proposed to be given by the witness, the deed to the plaintiff had been legally delivered; it having been signed, sealed, and acknowledged by the husband and wife in due form, and sent by the former in presence of the latter to the recorder’s office to be recorded. The proposed testimony of the witness, therefore,, on the subject of the delivery of the deed, could nof have benefited the defendant.
+That the witness had executed the deed to the plaintiff under a misapprehension of her legal rights, which the defendant offered to prove by her, is no ground for avoiding the deed. Every person is presumed to know the law. Platt v. Scott, decided at this term.
+TF. J. Peaslee, for the plaintiffs.
+J. Hyman, for the defendant.
+The evidence, as offered to be given, shows that the witness had executed and acknowledged the deed, and, the contrary not appearing, it must be presumed that the acknowledgment was made, in the absence of her husband before the magistrate in the usual form, viz., that she had voluntarily, and of her own free will and accord, and as her act and deed, sealed and ■delivered the conveyance, without any coercion or compulsion from her husband. The witness, and all persons claiming under her, are estopped by that acknowledgment which she admits to have been made, from saying- that she had not freely and absolutely executed the deed.
+We are of opinion, therefore, that the rejection of the witness can not be assigned for error.
+As a motion for a new trial was made by the defendant and overruled, it is proper to notice another objection made to the judgment. The conveyance to the plaintiff was a voluntary one, which, it is admitted, would be void as to a subsequent purchaser from the grantor, for a valuable consideration, without notice. Supposing that doctrine applicable to this case, which is of a subsequent sale and conveyance by the widow, che other grantor being dead, still it can not benefit the defendant, because the first deed having been recorded, he was a purchaser with notice. Stanley v. Brannon et al., May term, 1842. (Ante, p. 193.)
+*Per Curiam.—The judgment is affirmed with costs.
+A conveyance of real estate executed and recorded without the knowledge of the grantee is valid, if subsequently accepted by him. Harrison v. The Trust. of Phil. Academy, 12 Mass., 456. But if before the grantee’s consent to the conveyance in such case, a third person obtain a judgment against the grantor, the judgment will have the preference. Goodsell et al. v. Stinson, May term, 1845.
