@@ -1,0 +1,29 @@
+---
+court: "Supreme Court of Indiana"
+decided: "1841-11"
+citations: ["6 Blackf. 101"]
+reporter: "blackf"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Henderson v. Reeves."]
+source_url: "https://static.case.law/blackf/6/cases/0107-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6101140
+cites_cases: ["16 Ind., 287"]
+---
+
+# Henderson v. Reeves
+
+## Majority (Dewey, J.)
+
+Dewey, J.
+Reeves and McLain sued Zenas Henderson and Dewit G. Stephens, surviving partners, in debt. The declaration sets forth, among other things, two promissory notes alleged to be executed by the defendants and their deceased partner, William A. Henderson, in the name and style of the firm of D. C. Stephens and Co. A return of “not found” was suggested as to Stephens. Zenas Henderson pleaded the general issue, verified by affidavit. The death of McLain, after the commencement of the suit was suggested upon the record, and his co-plaintiff Reeves entered the similiter to the general issue. Verdict and judgment'for the plaintiff.
+On the trial, the plaintiff produced one Mariam as a witness, to prove that Zenas Henderson was a member of the firm of D. G. Stephens and Go. The defendant objected to his competency on the score of interest; and to sustain his objection he proved by the record and the admissions of the plaintiff, that Reeves and McLain had brought a former suit on .the notes mentioned in this declaration, against William A. Henderson, Dewit O. Stephens, and the witness, as constituting the firm of D. O. Stephens and Co., and had recovered a judgment against Henderson and the witness, “ not found ” having been returned as to Stephens. The Court overruled the objection, and suffered Mariam to testify in behalf of the plaintiff.
+The argument advanced by the plaintiff in error to show the incompetency of the witness is, that Mariam being liable by the judgment against him in the former suit, to pay the amount of the notes given by the firm of D. C. Stephens and Co., had an interest in establishing the fact that the defendant was a member of that firm, in order to have contribution against him, should he, Mariam, be compelled to pay the money. All this may he true, but it does not prove that Mariam has any interest in the event of this suit, because not being a party to it, he can not avail himself of this record to establish the joint liability of Henderson. To' do that, and to show his liability to contribution, Mariam must resort to evidence independent of both judgments, as he is not himself *a party to one,, nor Henderson to the other. It is evident, therefore, that he.could gain no advantage by testifying 5 hat Henderson was a member of the firm of D. C. Stephens and Co. This view of the subject is sustained by the following tases. 1 Strange, 35; Blackett v. Weir, 5 B. & C., 385; Hall v. Curzon, 9 B. & C., 646. Had Mariam been a party to the suit, who had suffered judgment to go against him by default, he would not, according to the cases of Brown v. Brown, 4 Taunt., 752, and Mant v. Mainwaring et al., 8 Taunt., 139, cited by the plaintiff in error, have been a competent witness. Ilis interest would be evident. He would gain a manifest advantage by making the defendant jointly liable with him in the judgment, the record of which he could use in a suit for contribution. The exclusion of the witnesses in these cases and others of a similar character has been said to rest, in part at least, upon the general principle that á party to the record is an incompetent witness. But that this is not the true reason has been clearly shown in the later decision of Worrall v. Jones et al., 7 Bingh., 395, in which it was held that a disinterested party to the record was a competent witness. The Circuit Court committed no error in admitting Mariam to testify.
+The defendant, having given in evidence to the jury the record of the former trial' above mentioned, and it being admitted by the plaintiff that the cause of action in that suit, so far as the notes are concerned, was the same as in this, and that two of the defendants in the former suit, Stephens and William. A. Henderson, were two of the partners who are alleged to have executed the notes described in this declaration, moved the Court to instruct the jury, that they were at liberty to consider the former judgment a bar to this action so far as it is founded on the notes. The instruction was refused. The charge should have been given. This action is founded, in part, upon joint contracts alleged to be made by William A. Henderson and the original defendants in the suit. The former judgment against Henderson on the same contracts extinguished them at least as to him. It showed that the joint contracts laid in the declaration did not exist when this suit was commenced.
+D. H. Colericlc and W. H. Coombs, for the plaintiff.
+T. Johnson, for the defendant.
+It, therefore, authorized the jury to consider this action as barred. This is the principle *established in the case of Taylor v. Moseby, decided by this Court, May term, 1841.
+The Court refused to instruct the jury, that to enable the plaintiff, Reeves, to recover, he must have proved on the trial, the death of his co-plaintiff, McLain. There was no error in this. The defendant, by suffering the death of McLain to be suggested on the record without opposition before the trial commenced, admitted the fact.
+The Court also refused to instruct the jury, that the “in-dorsements which appeared upon the notes adduced by the plaintiff,” if against him, were evidence for their consideration. These “indorsements,” we presume, were credits entered on the notes; if so, they were certainly proper matter for the consideration of the jury in estimating the amount due.
+Per Curiam.—The judgment is reversed with costs. Cause remanded, &e.
