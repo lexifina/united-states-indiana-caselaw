@@ -1,0 +1,26 @@
+---
+court: "Supreme Court of Indiana"
+decided: "1819-11-02"
+citations: ["1 Blackf. 41"]
+reporter: "blackf"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Crenshaw and Another v. Bullitt and Another."]
+source_url: "https://static.case.law/blackf/1/cases/0041-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1389515
+---
+
+# Crenshaw v. Bullitt
+
+## Majority (Holman, J. Per Curiam.)
+
+Holman, J.
+The variance between the note declared on, and the one read in oyer, is the only special error assigned. If the plaintiffs below were bound to set forth the writing obligatory verbatim in the declaration, there could be no question but this declaration would be insufficient, for having omitted the words for value received. But as it was only necessary for them to set forth the substance of the writing; just so much as would constitute a legal, identical demand; the inquiry will be, are the words for value received important in constituting or identifying this demand? They are unimportant in this writing, for it is ohJjgatory, and constitutes a legal demand, without them. The making of the instrument, the parties, the date, the sum, the time of payment, are all set forth, and being all the constituents of a legal demand in this case, they are abundantly sufficient to identify that demand. Words which are surplusage in an obligation, which affect the rights of neither of the parties, need not be copied in a declaration; and such are these . We have therefore no hesitation in deciding, that the variance complained of is immaterial.
+Ross, for the appellants.
+Moore and Dunbar, for the appellees.
+Per Curiam.
+The judgment is affirmed, with 5 per cent, damages, and costs.
+Where the plaintiff professes to give the words of the instrument, as' when he says “to the tenor following,” or “as follows,” or “in the words and figures following,” there must be an exact recital. The plaintiff, however, usually undertakes to give only the substance and legal effect, which is all that is necessary. 1 Chitt. Plead. 299. — 3 Stark. Ev. 1586-7. In a suit against the acceptor of a bill of exchange, Ellenborough, C. J., observed, that the words “value received” in a bill, were not at all material; that they might be wholly omitted in the declaration, and that there were several cases to that effect. Grant v. Da Costa, 3 Maule and Selw. 351. The consideration of a bond need not be stated in the declaration, though it be expressed in the bond itself; but if the statement be attempted, a variance is fatal on non est factum. Thus, the declaration set out, that as well in consideration of certain furnaces, the defendant demised, &c. Plea, non est factum, The deed produced was that, as well in consideration of the furnaces, as also of building a house, the defendant demised, &c. Abbott, C. J. The consideration stated in the deed set oat in the declaration, is different from that of the deed produced in evidence; and the variance is therefore fatal. The consideration, in fact, amounts to a description of the deed, and it is therefore necessary that if it be set out at all, it should be set out correctly. One of the great evils of setting out too much, is that it can do no good, and often does much harm. Here the party might have stated, that for certain considerations contained in the deed, T. R. B. did demise, Sic. But' he has chosen to set out the considerations, and has not set them out correctly. Rule for setting aside the nonsuit in the case discharged. Swallow v. Beaumont, 2 Barnew. and Ald. 765.
+If part of a covenant, which qualifies or alters the sense,- be omitted, the variance is fatal. Thus, the declaration stated the covenant to be, that the defendant, a lessee, would repair the premises whenever necessary. Plea, non est factum. The lease produced contained the words in the declaration, with this addition, “casualties by fire excepted .” Per Curiam. You are bound to set out the covenant truly : the distinction is, whether the qualification forms part of the covenant or not. If it forms part of the covenant, it must be set out, if not, it may be omitted. Here it is part of the covenant which is stated to be an absolute covenant, whereas it turns out to be qualified. Rule for settiug aside the nonsuit in the case discharged. Browne v. Knill, 2 Brod. and Bingh. 395. Vide also Horsefall v. Testar, 7 Taunt. 385. — The Earl of Portmore v. Bunn, 1 Barnew. and Cress. 694. — 3 Stark. Ev. 1561— 1595.
+Variances between the oyer and the declaration on demurrer, are widely different from those between the oyer and the bond, offered in evidence on non est factum. The declaration may be right, and yet not contain a single word that is contained in the bond. But after oyer and non est factum pleaded,' the question is, whether the tenor set out is the same as the tenor of the bond executed, and it would not suffice, that it should agree in substance. In a declaration it is only necessary to state the legal effect of the instrument; but on oyer the plaintiff professes to produce a copy of it, as of the deed by which he asserts that the defendant is bound; and if it is not the true copy, the defendant may say, that is not the deed he executed. Per Gibbs, C. J., in Waugh v. Bussell, 5 Taunt. 707.
