@@ -1,0 +1,43 @@
+---
+court: "Supreme Court of Indiana"
+decided: "1857-05-25"
+citations: ["9 Ind. 8"]
+reporter: "ind"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Colson v. Smith."]
+source_url: "https://static.case.law/ind/9/cases/0008-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1466972
+cites_cases: ["1 Denio, 69", "21 Wend. 626", "4 Blackf. 515", "4 Mass. 502", "5 Hill 389"]
+---
+
+# Colson v. Smith
+
+## Majority (Stuart, J. Per Curiam.)
+
+Stuart, J.
+Colson brought this action against Smith to rescind a contract, and for general relief. The case is so correctly and perspicuously presented by counsel in their brief, that we adopt their statement:
+“ The complaint sets forth the following facts: That on the 29th November, 1848, the plaintiff was the owner in fee of a certain tract of land, which is described, situate in Ripley county, and being desirous of obtaining other lands in a new country, he entered into an agreement with the defendant, to convey to him said land, for three land-warrants, and 250 dollars, one half of which was to be paid down, and the other on time, with interest; that- accordingly he gave the defendant a title-bond for the land, and said defendant gave the plaintiff his note for 125 dollars, another for the three land-warrants, and paid him 125 dollars down; that when said notes became due, the defendant paid off the money note, and delivered to the plaintiff one genuine land-warrant, and a forged instrument purporting to be a land-warrant, and another fraudulent and void warrant, issued on forged testimony, and that believing all of said warrants to be genuine, he conveyed the land to the defendant; that on the 8th of June, 1849, he (the plaintiff) stiff believing said land-warrants to be genuine, located the same on public lands in Wisconsin, but that two of them turned out to be void as aforesaid, in consequence of which the locations were set aside and can-celled; that the locations were made by one Miles, in his name, but for the use of the plaintiff; that so soon as he ascertained that said land-warrants were invalid, he informed the defendant thereof by letter, and demanded others in their stead, which were refused; that afterwards, on the 28th of September, 1854, the plaintiff called on the defendant, and offered to return to him said spurious land-warrants, and demanded valid warrants of the same character in their place, and that on the defendant’s refusing to take them back and give others in then- stead, the plaintiff demanded of him 400 dollars in lieu of them, which was also refused, whereupon he again tendered to the defendant said spurious warrants, one genuine warrant of the kind which he got of the defendant, and 370 dollars, the amount of money which the defendant paid the plaintiff on the land, with the interest accrued on the same, together with the taxes which the defendant had paid on it since it was conveyed to him, and demanded of him a reconveyance of said land, and to that end tendered him a deed to be by him executed, — all of which the defendant declined. The genuine land-warrant and money so tendered are brought into Court. Prayer, that the defendant be compelled to reconvey the land, account for the profits, and for general relief.”
+Demurrer to the complaint sustained, and the suit dismissed.
+The demurrer makes the following points against the plaintiff’s right to relief:
+1. That the facts set forth are not sufficient to constitute a cause of action.
+2. That the interest in the subject-matter of the suit is not shown to be in the plaintiff, but in one Miles, who is not made a party.
+3. That the land-warrants were not assigned or guaranteed to the plaintiff, but simply delivered.
+4. For informality in plaintiff’s offer to re-assign the two spurious warrants.
+5. Want of due diligence in notifying the defendant of the defect in the warrants.
+6. Surplusage in certain parts of the complaint.
+7. That no specific relief is prayed, or judgment for any particular sum demanded.
+By reference to the practice act, it will be readily seen that the first cause assigned, viz., the insufficiency of the facts to constitute a cause of action; and the second, for defect of parties defendant, are the only statutory causes assigned. They are the fourth and fifth in the statutory classification. For no other than causes specified in the act, shall a demurrer be sustained. 2 R. S. p. 38.
+The other causes assigned, may, perhaps, in part, be regarded as specifications under these two, in part, the proper subject of pleas, and in part, frivolous, and for that reason, as well as for want of conformity to the statute, to be overruled. 2 R. S. p. 44, et supra.
+Under the first head, (the insufficiency of the facts stated to sustain the action,) we will consider the complaint in point of form, and then of substance.
+The facts are stated clearly, in sufficiently concise language to convey the intention to a person of common understanding. 2 R. S. pp. 37, 38. The sums, prices, and value, as well as the particulars of the contract, all appear in their proper places in the complaint. That pleading should also contain a demand of the relief to which the plaintiff conceives himself entitled. If the recovery of money be demanded, the amount should be stated. 2 R. S. p. 38. The conclusion of the complaint is that the plaintiff demands judgment of rescission; that the defendant be ordered to reconvey the land, and account for the rents and profits, and for general relief. The value of the rents and profits is elsewhere laid, under a videlicet, at 600 dollars. This is sufficient in point of form. But it is always safe to make the conclusion specific. 2 R. S. p. 123, s. 380. Under that provision, and in the absence of an answer, the relief granted cannot exceed the relief demanded. But it would seem that if the defendant submit to answer, the Court should grant such relief as the case made in the complaint may justify, whether specifically, demanded or not. Section 380, supra.
+In this case, the form of the complaint is sufficient on demurrer.
+We think the complaint was also sufficient in point of substance to entitle the plaintiff to some relief.
+If what the plaintiff has alleged could be proved, he was clearly entitled to a rescission; particularly as the parties could be placed in statu quo, as the tender made and continued in Court proposed to do. In Peters v. Gooch, 4 Blackf. 515, and Chance v. The Board of Commissioners, 5 id. 441, it is held that a contract cannot be rescinded by one party for the default of the other, unless both can be placed in the same situation in which they stood at the time of contracting. And so are all the authorities. Chit. on Cont. 678, 752.—Kimball v. Cunningham, 4 Mass. 502.-Hogan v. Weyer, 5 Hill 389. But this ruling clearly leaves the implication that if they can be so placed, the contract may be rescinded, even for the simple default of one of the parties; much more where there is fraud, ignorance of facts, or mutual mistake. Masson v. Bovet, 1 Denio, 69. The case in 1 Denio was a much stronger one than that at bar. The effect of the sale was to extinguish a portion of the judgment equal to the plaintiff’s bid; yet the Court say “it would be a scandal to the law of any country, if it failed to furnish redress for such an injury.”
+Here, as in that case, if the complaint be true, and the demurrer admits its truth, the plaintiff was induced to part with his farm, in exchange for forged land-warrants. Had he known them to be such, he would not have consummated the contract. He took them, of course, under an implied warranty that they were genuine. The exchange operated as a fraud upon Colson, and gave him the right to rescind. In such cases “the law only requires the injured party to restore what he has received, and as far as he can, undo what had been done in the execution of the contract.” 1 Denio, supra.—Reed v. Rudman, 5 Ind. R. 409.
+I. Ryman, for the appellant.
+If it should turn out that the party plaintiff had received what he had contracted for — had received forged warrants, Imowing them to be such—the law will leave the parties where it finds them. Fay v. Richards, 21 Wend. 626.—Major v. Brush, 7 Ind. R. 232.
+Even if not in a situation to demand a rescission, the facts stated in the complaint showed Colson entitled to some relief. The demurrer should, therefore^ have been overruled, and the case retained in Court for such relief— either rescission of the contract or damages — as the case made by the evidence might warrant.
+Per Curiam.
+The judgment is reversed, with costs. Cause remanded, &c.
