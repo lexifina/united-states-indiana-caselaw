@@ -1,0 +1,29 @@
+---
+court: "Supreme Court of Indiana"
+decided: "1837-05-30"
+citations: ["4 Blackf. 291"]
+reporter: "blackf"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State, on the Relation of Evans, v. Houston and Others."]
+source_url: "https://static.case.law/blackf/4/cases/0291-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1388437
+---
+
+# State ex rel. Evans v. Houston
+
+## Majority (Dewey, J. Per Curiam.)
+
+Dewey, J.
+Debt against the defendants in error as sureties of a justice of the peace on his official bond.
+One Adams obtained a judgment before Hartsock, a justice of the peace, against Evans the relator. Evans took an appeal regularly to the Circuit Court. The justice failed to file the papers in the appeal with the clerk of the Circuit Court within 20 days after the time of taking the appeal, but filed them after the lapse of that period. The Circuit Court for that cause dismissed the appeal at the cost of Evans. Evans sued Hartsock and his sureties in the name of the state. The breach of the condition of the bond assigned is, the failure of the justice to file the appeal with the clerk of the Circuit Court in due season. After the service of process upon Hartsock he died. His sureties, the present defendants in error, pleaded his death in abatement of the suit. The plaintiff demurred. The Circuit Court held the plea sufficient, and rendered final judgment for the defendants.
+The ground on which the defendants rest their vindication of this judgment is, that though the form of the action be debt, its cause is ex delicto; that it does not survive against the executor or administrator of the justice; and that therefore his sureties were discharged from their responsibility by his death.
+For the correctness of this position, they rely upon those decisions which have established the law to be, that the executor or administrator of a sheriff having suffered an escape on execution, and of a person having incurred the forfeiture ° ' ... of a penal statute, are not responsible tor the torts or those whom they represent. Those decisions are founded upon statutory provisions which give the action of debt against the wrong-doers, but do not extend the liability to their representatives. The form of the action is arbitrary; but its cause is exclusively tort. Contract, express or implied, forms no feature of it. The maxim, actio personalis moritur cum persona, has therefore been held to apply to cases of this description. 3 Dyer, 332.—1 Chitt. Pl. 103.—2 Will, on Ex. 1063.
+But this maxim, which, it has been remarked, is far from being generally true, we believe, has never been applied to actions ex contractu, with the exception of contracts which in their character are personal, and the breach of which is unattended with special damages or pecuniary injury—-such as marriage contracts, and covenants to instruct apprentices, &c. 2 M. & S. 408.—1 Chitt. Pl. 58.-2 Will, on Ex. 1058, 1061.— 1 Saund. 216 a, n. 1.—3 Bac. Abr. tit. Ex. and Adm. P. 1, 2.— Cro. Jac. 662. It is well settled, that it does not apply to those cases in which the injured party has his election between case and assumpsit, provided he elect the latter remedy. Within this class of cases are included injuries arising from the negligence or misconduct of common carriers, attorneys, mechanics, &c. In assumpsit for these injuries, the gist of the action is the breach of the contract, either express or implied; and though its breach consists in the commission of a tort, it does not change the nature of the remedy, nor prevent it from surviving against the executor or administrator of the wrongdoer. 2 Will, on Ex. 1065.—2 New Rep. 370.—Cowper, 371. In the case last quoted, Lord Mansfield, after remarking that “ the Court had looked carefully into all the cases on the subject,” said that “where the cause of-action is money due, or a contract to be performed, gain or acquisition of the testator, by the work and labour, or property of another, or a promise by the testator express or implied; where these are the causes of action, the action survives against the executor.”
+This action is founded upon a writing obligatory, conditioned for the faithful performance by one of the obligors, Hart- sock, of the duties of a justice of the peace. These duties are defined and prescribed by statute. Among them was that filing all appeals taken from his judgments, with the clerk of the Circuit Court within a given time. This he failed to do, p . “ and special damages are laid and claimed against him and his sureties, for the violation of their contract. That his failure to file the appeal in season was a breach of the condition of the bond, there can be no doubt; and it is not the less so, because it involved on the part of Hartsock a tort, for which he was, in his life-time, liable in another form of action. Had he been sole obligor to the bond, or the survivor of the other obligors, we cannot doubt, in view of the principles which we have laid down, that the action would have survived against his executor or administrator. But admitting that it would not, it by no means follows that his death exonerates his sureties from the liability which they incurred in his life-time by a forfeiture of the bond. They are not, and cannot be, liable in any action founded on tort. Their responsibility is exclusively ex contractu. They are sued on a breach of their own covenant, and it is not easy to perceive how the doctrine moritur cum persona can be applied to them.
+C. P. Hester, for the plaintiff.
+J. L. Ketcham, for the defendants.
+We think the Circuit Court erred in sustaining the plea in abatement.
+Per Curiam.
+The judgment is reversed, and the proceedings subsequent to the joinder in demurrer set aside, with costs. Cause remanded, &c.
