@@ -1,0 +1,30 @@
+---
+court: "Supreme Court of Indiana"
+decided: "1835-05-27"
+citations: ["4 Blackf. 24"]
+reporter: "blackf"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["De Camp and Another v. Stevens."]
+source_url: "https://static.case.law/blackf/4/cases/0024-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1388341
+cites_cases: ["1 Blackf. 406", "1 Wend. Rep. 514"]
+---
+
+# De Camp v. Stevens
+
+## Majority (M’Kinney, J. Per Curiam.)
+
+M’Kinney, J.
+This is an action of assumpsit, brought by-Stevens against the De Camps, on an account. The case originated before a justice of the peace; antean appeal from the judgment of the justice, in favour of the plaintiff, was taken by the defendants to the Circuit Court. In that Court judgment was rendered, on the verdict of a jury, for the plaintiff. During the trial, in the Circuit Court, certain instructions were given to the jury, on the alleged incorrectness of which, and the refusal to grant a new trial, the defendants ask a reversal of the judgment.
+The material item in the account of the plaintiff below, is for three months and 10 days’ labour at the rate of nine dollars per month. From the evidence, all of which is before us, it seems that the contract was for a year’s labour, at the rate of nine dollars per month. With this- evidence submitted to the jury, the defendants asked the Court to give this instruction: “That if they believed the evidence given in the cause, the jury must find for the' defendants, as the law arising on the evidence is in favour of the defendants.” The Court refused to-give the instruction, but charged the jury: “That if they believed the evidence they must find for the defendants, as the law arising on that evidence ivas in favour of the defendants; but that they were the sole judges of the credibility of witnesses, and were not bound by the statements of the witnesses if they thought them untrue.” The instruction thus refused, as well as that given, is complained of by the appellants. The first branch of the instruction given is in the very language used by the appellants themselves, and so far cannot be objected to. Indeed, the instruction is a corollary of the law from the evidence we have noticed. The law is settled, and is not controverted in this case, that if the contract was for a year’s labour, at the rate of nine dollars per month, a recovery could not had,—the contract being entire,—for a less period than that fixed by the parties, unless the contract was rescinded. Cranmer v. Graham, 1 Blackf. 406, and authorities cited. The second branch of the instruction seems to be equally unexceptionable. The proposition is undeniable, that it is the exclusive province of a jury to judge of the credibility of witnesses; and, clearly, they are not bound by the statement of a witness, if they do not believe it to be true.
+The second instruction complained of was given at the instance of the plaintiff below, and is as follows: “ If the jury believe the defendants resorted to improper -means and ungenerous conduct towards the plaintiff, to make him abandon his contract, he is entitled to recover for the labour’ done under the contract.” The record shows that one of the defendants remarked, when told the plaintiff had quit work, that he was glad of it, for the plaintiff was worth nothing; and one witness thought De Camp manifested a disposition to get the plaintiff to leave him. This appears to be all the testimony upon which the instruction is founded, or which, in any degree, relates to “ improper means and ungenerous conduct” used towards the plaintiff The positive or implied rescission of a contract, is certainly different from improper means or ungenerous conduct, by one party to the other, to induce an abandonment of it.. The question before the jury was, is the contract dissolved? If it was dissolved by the defendants, the plaintiff was entitled to recover. If it was not, the verdict should have been for the defendants. It is clear there was no positive rescission; and if it was implied, it must have been from the improper means and ungenerous conduct used towards the plaintiff. These terms are vague and indefinite; and to adopt them as establishing the rule by which contracts are to be, dissolved, would subject the rule to the operation of such uncertain tests as would render it entirely nugatory.
+What some juries would regard as improper means and ungenerous conduct, others might deem appropriate to the parties. A rule so important should have a more steady and settled foundation than that of sensibility.
+In the case of Marsh v. Rulesson, 1 Wend. Rep. 514, in a contract of the nature of that before us,' the Court, in relation to some very offensive language used by the employer, said, tjiat though the language was exceedingly improper, it did not amount to turning the plaintiff off.
+O. H. Smith, for the appellants.
+J. Rariden, for the appellee.
+It true’one appelants said, when informed that Stevens had quit work, that he was glad of it, for he was worth nothing. But this was after the contract was voluntarily abandoned by Stevens, and he had thus waived a right to enforce its execution by the appellants. The contract was then abandoned; and agreeably to the case of Lantry v. Parks, 8 Cow. R. 63, an offer the following day to resume the work, if such had been made, would have left it to the election of the defendants below, either to accept the offer, or reject it and treat the original contract as rescinded. It would seem that a disposition to rescind a contract or to force the opposite party to abandon it,—that threats or a declared purpose of rescinding,— do not of themselves constitute a rescission.
+We are therefore of the opinion, that the instruction last examined should have been refused by -the Circuit Court; and that it should have granted a new trial.
+Per Curiam.
+The judgment is reversed, and the verdict set aside, with costs. Cause remanded, &c.
