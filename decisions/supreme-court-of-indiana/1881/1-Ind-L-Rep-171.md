@@ -1,0 +1,29 @@
+---
+court: "Supreme Court of Indiana"
+decided: "1881-04-21"
+citations: ["1 Ind. L. Rep. 171"]
+reporter: "ind-l-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William S. Toney v. Amanda J. Toney."]
+source_url: "https://static.case.law/ind-l-rep/1/cases/0171-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6682130
+cites_cases: ["9 Ind. 277"]
+---
+
+# Toney v. Toney
+
+## Majority (Mr. Justice Woods.)
+
+Opinion of the court by
+Mr. Justice Woods.
+Action by appellee against the appellant to recover the sum of fifteen hundred dollars, which she claimed to have loaned the appellant.
+Error is assigned upon the overruling of the demurrer to the complaint, but counsel have pointed out no defect in either paragraph, and we have discovered none. There was no error in overruling the motion in arrest of judgment.
+It is claimed, with earnestness, that the motion for a new trial should have been allowed to prevail, and a number of considerations in support thereof are pressed upon our attention.
+The following is an outline of the facts on which the action originated: The appellee had received on a policy of insurance on the life of her husband, Poindexter Toney, lately deceased, the sum of fifteen hundred dollars, which she delivered into the hands of the appellant, the brother of said decedent and administrator of his estate. The purpose of both parties was that the money should be, and it was, used in paying debts of said decedent, but the appellee claims that she gave the money to the appellant as a loan to him to enable him to pay debts of the deceased on which the appellant was surety, and in fact to the extent of $900 or more the money was so used by the appellant; but he claims that the money was not loaned to him or advanced on his credit, but was voluntarily put in his hands by the appellee to be used in paying the debts of said estate in order to save a sale of the real estate on which it was contemplated that the appellee should have a lien for the sum so advanced. After the appellant had received and applied said money to the payment of said debts, it was discovered that the deceased, who had been the trustee of his township, was in default in his account as trustee to the amount of $4,000, which the appellant, as surety on the official bond of the deceased, had to make good, and it became impracticable to save the farm.
+Weighed as it appears in the transcript, the evidence seems to preponderate strongly in favor of the appellant; but we can not judge of the credibility of witnesses and must presume that the verdict was right. There is evidence on which the plaintiff’s theory of the case can be sustained, and that being so, the rule is well settled that this court can not interfere with the verdict. There may be, and doubtless are, cases wherein the trial court ought unhesitatingly to set aside the verdicts of juries, but if they do not take and discharge the responsibility, this court can not undertake to review their action. We can not know but that the court did its duty, and must presume that it did.
+The case is not one where it was necessary to prove a demand, and if it were, there was sufficient proof in that respect. It was clearly shown, indeed by the appellant’s own testimony, that he disputed his liability to refund the money at all, and this made a formal demand unnecessary, even if otherwise it had been requisite.
+One of the reasons for a new trial was the alleged discovery of material new evidence, namely that of Abraham Rinehart, but it is clear that due diligence was uot shown to have been used before the trial. Elizabeth Rinehart testified on the trial to declarations of the appellee in some respects similar, and perhaps identical, with those proposed to be shown by said Abraham. Elizabeth was a sister and sister-in-law of the parties and lived near by. It does not appear but that said Abraham was her husband, or otherwise intimately related, or close neighbor to the appellee and likely to have had conversations with her in relation to the matters in dispute. The general statements of the appellant in his affidavit that he had been diligent in making inquiries of such as he deemed likely to know anything in relation to the case, are not sufficient to overcome the manifest presumptions against him, arising out of the suggestions above mentioned.
+While by no means convinced that a just result was reached, we find no error in the record on which this court can disturb the verdict and judgment of the superior court.
+Judgment affirmed.
