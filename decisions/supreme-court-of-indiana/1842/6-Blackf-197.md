@@ -1,0 +1,32 @@
+---
+court: "Supreme Court of Indiana"
+decided: "1842-05"
+citations: ["6 Blackf. 197"]
+reporter: "blackf"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Vandevender and Another v. Pittsford."]
+source_url: "https://static.case.law/blackf/6/cases/0209-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6107012
+---
+
+# Vandevender v. Pittsford
+
+## Majority (Blackford, J.)
+
+Blackford, J.
+William Pittsford brought an action of debt against Lewis Vandevender, Sandford Coelcrell, and Philip Vandevender. The debt claimed is $660. There are two counts in the declaration.
+First count: For that whereas the defendants, on the 4th of Mar eh, 1840, at, &c., by their certain writing obligatory sealed, &c., acknowledged themselves to be jointly and severally bound to pay to the plaintiff the sum of $400, on or before the 1st of January, 1848, drawing interest at the rate of tender cent.per annum from the 1st of January, 1839, and if the interest were not punctually paid annually as the same fell due, at the expiration of each year, then and in that case the whole sum of money aforesaid to *become due and payable to the plaintiff. Averment, that on the 1st of January, 1841, there was due and payable in interest as aforesaid, on the said sum of money specified in the said writing obligatory, the sum of $40.00, the interest for the year 1840; which sum of $40.00, or any part thereof, was not paid to the plaintiff by the defendants or either of them, at the time of its falling due, nor before nor since. Second count: For that whereas, also, the 'defendants afterwards, to wit, on the day and year first aforesaid, at, &c., by their certain writing obligatory sealed, &c., acknowledged themselves to be jointly and severally bound to pay to the plaintiff the further sum of $260, on or before the 1st of January, 1848, drawing interest at the rate of ten per cent, per annum from the 1st of January, 1839, and if the interest should not be punctually paid annually, at the expiration of each year as the same fell due, then and in that case the whole amount of said $260 was to become due and payable to the plaintiff. Averment, that on the 1st of January, 1841, there was due and payable in interest as aforesaid for the year 1840, on said $260, the sum of $26.00; which sum of interest was not paid to the plaintiff by the defendants or either of them at the time of its falling due, nor before nor since. Wherefore an action has accrued to the plaintiff to demand and have of the defendants, the sum of $660, &o., nevertheless, &o. Damage, $500.
+The writ was returned “n«t found” as to the defendant Goekrell. The other defendants having obtained oyer of the writings obligatory, filed a general demurrer to each count, setting forth the proper oyen' in each demurrer.
+The oyer of the obligation noticed in the first count is as follows: “$400. On or before the first of January, 1848, we or either of us promise to pay William Pittsford, the sum of $400 for value received; it being part of the purchase-money for a certain tract of land, described in a deed made this day by the said Pittsford to the said Lewis Vandevender; the above money to bear ten per cent, interest from the 1st of January, 1839. Now if the said interest be not paid punctually when due at the expiration of each year, *or the said Lewis Vandevender sell the land before the expiration of this note, then and in either case the said note is to come due and payable to the said Pittsford- or his assigns. March 4,1840. Lewis Vandevender, (seal.) Sandford Coclcrett, (seal.) Philip Vandevender, (seal.)”
+The following is the oyer of the obligation mentioned in the second count: “$260. On or before the first of January, 1848, we or either of ns promise to pay William Pittsford or order, the sum of $260; it being part of the purchase-money for the E. half of the S. W. qr. of sec. 19, T. 19, R. 8 E.: the said sum of money to bear ten per cent, interest from the first of January, 1839. Now should the interest on said note not be paid when due at the expiration of^ each year, or should the said Lewis Vandevender sell the said land, then and in that or either case the said sum of $260 comes due and payable to the said Pittsford or his assigns. March 4, 1840. Lewis Vandevender, (seal.) Sandford Cockrell, (seal.) Philip Vandevender, (seal.)”
+The demurrers were overruled, and judgment rendered for the plaintiff against the defendants, who demurred, for the sum of $660 debt, and $72.86 damages, for the detention thereof—making together $732.86, besides costs.
+It is clear that the counts were unobjectionable on demurrer, before the bonds were set out on oyer; but it is contended, that, on the bonds being thus set out, it appears that the counts are substantially bad.
+If the defendants, without setting out on oyer thé bond mentioned in the first count, had pleaded non est factum, we do not think the bond could have been objected to as evidence on the ground of variance. It was not necessary that the count should show the particular consideration of the bond, though it appears on the face of the bond. Swallow v. Beaumont, 2 Barn. & Ald., 765. Neither do we think the plaintiff was bound to set out the clause in the bond, relative to the effect of L. Van-devender’s selling the land, &c. The obligation was complete without that clause, and could not, in any event, be lessened by it. And the omission in the *count of these parts of the bond, is the only objection made to the count on the ground of variance.
+But the true question presented by the demurrer to the first count is this, Does the count (the bond being considered a part of it) contain substantially a good cause of action? We think it does. The bond set out on oyer shows no matter of objection or answer to the plaintiff’s case, as it appeared in the first count before the oyer. Stephen on PL, 71. The omissions in the count, to which we have referred, do not change the sense of the obligation as shown on oyer, so as to affect the validity of the breach assigned. Snell v. Snell, 4 Barn. & Cress., 741.
+II. Brown and W. Quarles, for the plaintiffs.
+C. Fletcher, 0. Butler, and S. Tandes, for the defendant.
+The demurrer to the first count was, therefore, correctly overruled. ^
+It is not necessary to notice particularly the objections to the second count. There is no objection to that count which is t applicable to the first.
+Per Curiam.—The judgment is affirmed with costs.
