@@ -1,0 +1,30 @@
+---
+court: "Supreme Court of Indiana"
+decided: "1843-05"
+citations: ["6 Blackf. 430"]
+reporter: "blackf"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Doe, on the Demise of Burge and Others v. Cunningham."]
+source_url: "https://static.case.law/blackf/6/cases/0461-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6120859
+---
+
+# Doe, on the Demise of Burge v. Cunningham
+
+## Majority (Dewey, J.)
+
+Dewey, J.
+This was an action of ejectment. Verdict and judgment for the defendant below.
+Both parties claimed under Robert Burge, deceased—the lessors of the plaintiff as his heirs at law, the defendant as deriving title under a sale of the premises on an execution against him in his lifetime. The plaintiff made out a prima facie case. The defendant, having given in evidence a judgment of the Jackson Circuit Court in favour of one Goockoin against one Ruggles, rendered on the seventh day of June, 1821, for $463.98, and costs of suit, subject to a credit of $2.68, offered a replevin-bond executed by Ruggles, and Burge as his surety, dated June the 30th, 1821, conditioned for the payment of the judgment, &c. This bond was proved by the present clerk of the Jackson Circuit Court to have been among the files of the Court at the time he came into office, and was attested as follows: “Signed and acknowledged in presence of William Crenshaw, C. J. C. C.” It was indorsed “ J. Goodwin v. William B. Ruggles, in debt. Replevin-bond.” It was proved that Crenshaw was the clerk at the date of the bond; that, the attestation and signature thereto were in his handwriting ; that -he had issued executions upon the bond; and that he had since deceased. The lessors of the plaiu-tiff objected to *the admission of the bond in evidence; the objection was overruled, and the bond read to the jury.
+The objections now urged against the bond are, 1, There was no proof that it was ever approved by the clerk of the Court, that it had been filed in his office, or made a matter of record; and, 2, That it varied from the judgment upon which it was predicated.
+The bond was taken by virtue of the fifth section of a statute passed in 1821, which provided “That if bond with sufficient security, to be approved of by the clerk, shall be filed by the defendant or defendants in the clerk’s office prior to the issuing of any execution on the judgment, then and in that case no execution shall issue on the judgment until,” &c. Laws of 1821, p. 6. The same statute gave to replevin-bonds, thus approved and filed, the force and effect of a judgment, and provided that if they were not paid an execution should issue upon them. That the bond in question and its surety were approved by the clerk, Crenshaw, we think, sufficiently appears by the execution and acknowledgment of the bond before him, by his permitting it to go among the files of his office, and by his issuing executions upon it. As to the filing, it is true, there was no indorsement by the clerk on the bond that it was filed. Such an indorsement, however, could have been only evidence of the filing. The filing itself consisted in the deposit of the bond among the papers of the Court for safekeeping, a fact which was proved by the present clerk. This was sufficient, under the statute, to authorize the issuing of an execution upon the bond.
+The variance urged against the bond is, that in reciting the judgment it omits to state the credit of $2.68 which had been entered upon the latter. The judgment itself is correctly recited. "We do not conceive that a material variance was occasioned by that omission. The credit was no part of the judgment. The bond was properly suffered to go in evidence.
+The defendant having proved the issuing of a fi. fa. on the replevin-bond against Huggles and Burge, which was returned by the sheriff- that he had seized the premises in dispute but had not sold them for “ want of time,” offered in evidence *a venditioni exponas commanding the sheriff to proceed, &c. It was objected to but admitted.
+It is contended that the Court erred in admitting this writ in evidence, because the sheriff’s return of the fi. fa. Avas not sufficient to authorize the. issuing of any further writ of execution, and because, if any writ could have been lawfully issued, it was a levari faeias.
+This objection is founded upon a statute of 1818, which, in respect to the execution, governed this case. That statute provided that when real estate should be seized upon execution, and the officer should return that he could not sell the same for “ want of buyers,” the writ of levari faeias should issue Laws of 1818, pp. 187, 188. It is true, the return of the^./a that the officer had not sold the property for want of time was not authorized by the statute; doubtless the officer rendered himself liable to an action for not completing the execution of the writ. But it does not follow that the judgment-plaintiff was not entitled to perfect his remedy by execution. He had a right to the proper writ to compel the sheriff to sell the property. The objection to the form, or rather to the name of the writ in question, is answered by remarking that there is one kind of levari faeias, which issues when the sheriff has returned that he could not sell the property for want of buyers, commanding him to sell the same. 4 Jac. L. Dict., 136. This kind of levari faeias is substantially a venditioni exponas. The Court committed no error in admitting the execution in evidence. It was such a.writ as the statute authorized, and it. gave the sheriff authority to sell the land.
+The lessors of the plaintiff offered to prove that Crenshaw, while he was the clerk, said that Burge had been deceived, and had executed the replevin-bond under the expectation that others would sign it who had not. The evidence being objected to was correctly excluded by the Court. It was clearly hearsay.
+J. W. Payne and W. T. Otto, for the plaintiff.
+H. P. Thornton, for the defendant.
+Per Curiam.—The judgment is affirmed with costs.
