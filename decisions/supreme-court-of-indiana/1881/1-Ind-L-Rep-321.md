@@ -1,0 +1,32 @@
+---
+court: "Supreme Court of Indiana"
+decided: "1881-05-19"
+citations: ["1 Ind. L. Rep. 321"]
+reporter: "ind-l-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Samuel Moran v. The State ex rel. Emily Walker."]
+source_url: "https://static.case.law/ind-l-rep/1/cases/0321-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6684658
+cites_cases: ["61 Ind. 324"]
+---
+
+# Moran v. State ex rel. Walker
+
+## Majority (Mr. Chief Justice Niblack.)
+
+Opinion of the court by
+Mr. Chief Justice Niblack.
+The State on the relation of Emily Walker made complaint before a justice of the 'peace against Samuel Moran for bastardy, alleging that the said Emily was pregnant with a child, which, if born alive, would be a bastard, and that the said Moran was the father of said child.
+The justice, upon a hearing, recognized Moran to appear in the circuit court and answer to the charge thus preferred against him.
+Afterward the said Emily filed in the circuit court a paper signed by her, stating that since the commencement of the action she had intermarried with the defendant, and that she thereby dismissed all further proceedings against him.
+At the next term of court the attorneys for the relatrix, for some reason not disclosed by the record, resisted a dismissal of the action, and the court refused to dismiss it.
+The defendant than answered in two paragraphs:
+1. In general denial.
+2. That the deiendant was the lawful husband of the relatrix, and that in consequence she was not entitled to prosecute the action against him.
+A demurrer was sustained to the second paragraph of the answer, and, upon a trial of the cause, the defendant was adjudged to be the father of the child, of which the relatrix was then still pregnant, and ordered to pay the costs of the prosecution, and to stand committed to the jail of the county until the costs were paid or replevied.
+In the case of Doyle v. The State ex rel. Shetterly, 61 Ind. 324, it was, upon full consideration, held that a child begotten before, but born after, the marriage of its parents, is not a bastard.
+To a charge of bastardy, therefore, where the child has not been born, it is a sufficient answer to set up the marriage of the defendant with the relatrix.
+The second paragraph of the answer might have been much improved by a motion to have it made more certain and specific, but it was substantially sufficient, and the court erred in sustaining a demurrer to it.
+The judgment is reversed at the costs of the relatrix, and the cause remanded for further proceedings.
