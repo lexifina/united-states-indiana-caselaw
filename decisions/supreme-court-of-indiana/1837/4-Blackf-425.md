@@ -1,0 +1,28 @@
+---
+court: "Supreme Court of Indiana"
+decided: "1837-12-09"
+citations: ["4 Blackf. 425"]
+reporter: "blackf"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Case v. Winship."]
+source_url: "https://static.case.law/blackf/4/cases/0425-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1388412
+cites_cases: ["16 Mass. 39"]
+---
+
+# Case v. Winship
+
+## Majority (Sullivan, J. Per Curiam.)
+
+Sullivan, J.
+This is an action of replevin. The declaration charges the defendant, Case, with taking and unlawfully detaining certain goods and chattels, the property of the plaintiff. The defendant pleads property in himself. Replication and issue. The cause was tried by a jury who found a verdict for the plaintiff, on which judgment was rendered by the Court.
+It appears from a bill of exceptions filed in the cause, that the defendant below and one Henry Case were indebted to the plaintiff in three several notes of hand, for 50 dollars and 14 cents each, payable in 6, 12, and 18 months, dated the 7th of September, 1836; and that on the 21st of September, the defendant and H. Case did, by their certain deed, bargain and sell to the plaintiff below, the goods and chattels named and described in the plaintiff’s declaration, to have and to hold the same to said Winship, his heirs and assigns forever. To this grant there was a condition, setting forth that if the grantors, their executors, &c. should well and truly pay to said Winship the full amount of the notes, &c. as they should fall due, then the conveyance was to be void. The plaintiff below founded his right to the possession of the property on the above-named mortgage-deed. On the trial in the Circuit Court, the defendant offered to prove by parol evidence, that it was the understanding of the parties at the time of the execution of said instrument, that the property mortgaged should remain in the possession of the defendant until forfeiture, but the Court would not permit the testimony to be given,;—to which opinion of the Court, the defendant excepted, &c.
+The plaintiff in error insists, 1st, that the mortgagee is not entitled to the possession of the property until after forfeiture; and 2dly, that the Circuit Court erred in not admitting parol testimony to explain the understanding of the parties at the time of the execution of the mortgage.
+It has been repeatedly decided by the Courts, that if a man makes an absolute sale of goods, and continues in possession of them as visible owner with the consent of the buyer, the sale is prima facie fraudulent as to creditors. The case of a mortgage of goods forms no exception to the general rule. A reason why possession must accompany and follow the deed is, that retaining the property by the vendor enables him to impose upon mankind by false appearances. This reason applies with as much force to a mortgage of goods when possession is not delivered, as it does to an absolute sale. In Ryall v. Rowles, 1 Ves. Sen. 348, S. C., 1 Atk. Rep. 170, it is held, that a pawn is not complete until delivery; but that on a conditional or absolute sale, the sale is complete by the contract, and the party is entitled to a delivery of the goods as soon as he 'has paid the price. As between the mortgagor and mortgagee, a delivery is perhaps not essential to the validity of the mortgage, but this in no wise proves, that the mortgagee is not entitled to the possession of the property, if he demand it. He acquires by the mortgage a special property in the goods, and may detain them for his security. If not redeemed according to the contract, his right becomes absolute. In 2nd Kent’s Comm. 3d ed. 515, et seq. the author sums up the doctrine on this subject; and the conclusion to be drawn from it is, that a vendee in the case of an absolute sale, and a mortgagee in the case of a mortgage, are each entitled to the immediate possession of the property sold or mortgaged.
+On the second point made by the plaintiff in error, we conceive the law to be well settled. The Circuit Court did not err in refusing to admit parol testimony to explain the understanding of the parties at the time of making the mortgage. Parol testimony will not be admitted to vavy or add to, extend or limit, the terms of an agreement in writing. Nothing, says Ld. Thurlow, in 4th Bro. C. C. 519, can be addeA to a written agreement, unless there be a clear, subsequent, independent agreement varying the former; but not where it is matter passing at the same time with the written agreement. Where a written agreement for the sale of goods is silent as to the time of delivery, the law implies a contract to deliver them within a reasonable time, and in such case evidence is inadmissible of a contemporaneous oral contract by the purchaser to take them away immediately. Greaves v. Ashlin, 3 Camp. 426. In Colman v. Packard, 16 Mass. 39, the Court decided, that parol evidence was not admissible to prove at the time of making the mortgage, it was agreed that the mortgagor should continue in possession until he should fail to perform the condition of the mortgage. Numerous cases might be cited illustrating and enforcing this principle, all of which show that the decision of the Circuit Court in this case is correct. It is to be presumed that the parties in expressing their intention, expressed the whole of it; and we cannot permit their intention to be changed by the operation of parol testimony.
+J. Ryman, for the plaintiff.
+G. Holland, for the defendant.
+Per Curiam.
+The judgment is affirmed with costs. To be certified, &c.
