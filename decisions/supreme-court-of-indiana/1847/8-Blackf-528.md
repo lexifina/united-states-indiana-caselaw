@@ -1,0 +1,29 @@
+---
+court: "Supreme Court of Indiana"
+decided: "1847-12-02"
+citations: ["8 Blackf. 528"]
+reporter: "blackf"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The White Water Valley Canal Company v. Henderson."]
+source_url: "https://static.case.law/blackf/8/cases/0528-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1380909
+cites_cases: ["6 Blackf. 210"]
+---
+
+# White Water Valley Canal Co. v. Henderson
+
+## Majority (Perkins, J. Per Curiam.)
+
+Perkins, J.
+■Thomas Henderson filed his claim with the White Water Valley Canal Company for damages occasioned by the construction of the canal of said company through his land. Arbitrators were appointed pursuant to the charter, a hearing had, and an award returned to the office of the secretary of the company at Connersville, Fayette county, giving the claimant 2,000 dollars damages. From that award the company took a supposed appeal, which was filed in the office of the clerk of the Fayette Circuit Court. That Court refused to hear said appeal and dismissed it for want of jurisdiction, and their decision in the matter was afterwards affirmed by this Court. The papers in the appeal were then, by the direction of the company, withdrawn from the Fayette and filed in the office of the clerk of the Franklin Circuit Court. Their filing in the latter place was more than twenty days after the appeal purported to have been taken, and for that reason the appeal was dismissed from the Court. The case is now before us on appeal from that decision; and the only question is, was the appeal rightly dismissed?
+Section 11, of the charter of the company, among other things, provides that the arbitrators, in cases like the present, shall report their award in writing to the secretary of the company to be by him recorded in the proper book; and that, from any such award, either party may appeal to the Circuit Court having jurisdiction thereof; and such appeal shall in all things be governed by the law regulating appeals from justices of the peace, regarding said secretary as the justice for all purposes of the appeal. Sections 159, 160, and 163, p. 889, of the R. S. of 1843, authorize appeals from the judgments of justices of the peace to the Circuit Courts, within thirty days after they are rendered, on filing sufficient bonds, and require the justices to cause them, within twenty days after they are granted, to be filed in the clerks’ offices to which said appeals are taken. Sections 179 and 180, p. 892, of the same statutes, enact, that no appeal shall be dismissed on account of the failure of the justice to file the same in the Circuit Court within the time prescr-ibed, but that such failure may occasion a continuance of the cause, the costs of which the justice may be compelled to pay.
+The purport of the last two sections clearly is, that the fact that an appeal was not filed in the Circuit Court within twenty days is no cause for its dismissal from such Court, when the failure so to file it is attributable to the fault of the justice of the peace. It is contended on the part of the appellee, that in this case the failure is not so attributable, and that, therefore, the case is not within the statute. The following facts are relied upon to sustain this position: At the time the attorney of the canal company prayed the appeal from the award, and filed his bond with the secretary of the company, ex officio a justice as we have seen for the purposes of the appeal, he directed said secretary to file the appeal in the Fayette Circuit Court; and in that Court it was filed, pursuant to said direction, and suffered to remain for a year afterwards, when, by the further order of the canal company, it was withdrawn from the Fayette and filed in the Circuit Court.
+S. W. Parker and C. H. Test, for the appellant.
+J. A. Matson and J. S. Newman, for the appellee.
+It seems to us that these facts show, not only that it was not the fault of the justice that the appeal was not filed in time in the Franklin Circuit Court, but that they show more; they satisfy us that no legal appeal in the case was ever taken. An appeal to a Court having no jurisdiction of the cause is a nullity. At any rate, an appeal to the Fayette would not be one to the Franklin Circuit Court; and as no appeal lay in this case but to the latter Court (the land for injury to which damages were claimed lying in that county), and none is shown to have been taken to that Court, we are safe in saying there was no legal appeal in this case. The direction of the attorney, at the time of praying it, to the justice, to file the same in the Fayette Circuit Court, formed a part of his prayer of appeal, and made it to the Fayette Circuit Court. The justice was not bound to regard such an application, and having done so, his acts were without his jurisdiction, and void. Suppose, from an ordinary judgment of a justice of the peace of Marion county, a party prays an appeal to the Fayette Circuit Court, the justice would certainly do right to disregard his prayer; but suppose he grants it, and files a transcript of the cause in the clerk’s office of Fayette county, would it be contended that that could be considered an appeal to the Marion Circuit Court? Perhaps the party did not wish an appeal to that Court.
+It is said further that the Circuit Court should not have permitted proof of this parol prayer of an appeal; but we think otherwise. It did not contradict the'bond, for that designated no particular Court to which the appeal was taken. It did not contradict the transcript, for that contained no mention of the prayer of appeal. See Frazer v. Smith, 6 Blackf. 210.
+We think the decision of the Court below was right, and must be affirmed.
+Per Curiam.
+The judgment is affirmed with costs.
