@@ -1,0 +1,35 @@
+---
+court: "Supreme Court of Indiana"
+decided: "1839-11-21"
+citations: ["5 Blackf. 202"]
+reporter: "blackf"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Summy v. Mulford."]
+source_url: "https://static.case.law/blackf/5/cases/0202-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1379309
+cites_cases: ["11 Mass. Rep. 364", "17 Mass. Rep. 76"]
+---
+
+# Summy v. Mulford
+
+## Majority (Sullivan, J. Per Curiam.)
+
+Sullivan, J.
+Case for overflowing the plaintiff’s land, and causing the water to flow back on his mill, Sic.
+The defendant pleaded three pleas. The first .was the general issue; the second-and third were in substance as follows, viz. That on the third day of March, 1837, and before the commencement -of this suit, the defendant and two other persons filed their petition in the Union Circuit Court setting forth, among other things, that they had built- a dam across the east fork of White Water, a short'distance below the land and mill of the plaintiff, and that by means of said dam, the land of the plaintiff had been overflowed, and praying a writ of ad quod damnum, to assess the damages which the plaintiff by means of the erection of said dam, had sustained; that said writ was accordingly issued, and afterwards, on the sixth day of October, 1837, a jury, duly impanelled, charged, and sworn, to inquire of the damages sustained by said plaintiff, did assess them at '320 dollars, which sum was duly tendered to said plaintiff, and was then brought into Court, &c.
+General demur'rers were filed to the second and third pleas. The Court overruled the demurrers, and gave final judgment for the defendant.
+The judgment of the Circuit Court is defended on the following grounds; first, that the inquisition and tender of damages are a complete bar to the action; and, secondly, that the common law remedy by action on the case is taken away by the statute, and' that the only remedy the plaintiff has is by writ of ad quod damnum, according to the provisions of the fourth section of said statute.
+The first position is not tenable. It goes upon'the ground, that a person who has erected a mill-dam across a water course, without first obtaining a writ and causing an inquisition of damages to be taken, may afterwards legalize the act by obtaining a writ of ad quod damnum,, in the same manner as is directed in the case of persons who may wish to erect a new mill.
+If ■ the statute could be construed as applying to' mill-owners, and as extending to them, in such cases, the right to sue out a writ of ad quod damnum, it would not in the present case relieve the defendant, because it is prospective only in its operations. The jury, in such cases, are directed “ to ascertain the damages which any individual may sustain, in consequence of the continuance of said mill-dam.” The statute has no retrospective operation. It does not provide for damages already sustained.
+But without urging that objection further, the statute under consideration has, in more than one case, received the careful examination of this Court; and we are, upon a review of those cases, satisfied with the construction given to it. In Smith v. Olmstead, November term, 1838, it was decided, that a person who builds a dam across a water course, before he applies for a writ of ad quod, damnum, is not entitled to the benefit of the statute . In Summy v. Mulford, May term, 1839, it Was further decided, that the words of the statute, “any person interested therein, or who may be damaged by the overflowing, &c.” do not include, mill-owners; that the privilege of suing out the writ therein 'provided for, is given to those who may be damaged by the overflowing or stagnancy of the water, and to those only. In view of those decisions, we regard the proceedings set forth in the defendant’s pleas as coram non judice, and affording him no defence whatever to the present action. Shivers v. Wilson, 5 Harr. & Johns. 130.
+2. The common law remedy by action on the case, for such injuries as are set out in the plaintiff’s declaration, is admitted by the counsel for the defendant; but it is contended, that the statute has taken away that remedy in the present case, and substituted another. The language of the- statute is, “where any person may have built a mill or other dam, whereby the water of any river, creek, run, or spring, may be rendered thereby stagnant, it may be lawful for any person interested therein, or who may be damaged by the overflowing of said water, to obtain a writ of ad quod damnum in the same manner as is directed in case of persons wishing to build a new mill; and the jury so summoned shall ascertain the damage, which any individual may sustain in consequence of the continuance of said dam, &c.”
+Some statutes are, from their being in affirmative terms, called affirmative statutes; others obtain the name of negative statutes, because they are penned in negative terms. It is a maxim of law, that an affirmative statute does not take away the common law, and a party may make his election to proceed upon the statute, or at common law. Bac. Abr. tit. Statute (G). — 2 Burr. 803. The statute under consideration contains nothing in the terms of it, repugnant to the right of the plaintiff to resort to the remedy given him by the common law. He may therefore resort to it, for to be deprived by .statute of a remedy which he possessed before the enactment of the statute, its terms should be express, or so clearly repugnant to the exercise of it, as to Imply a negative. Chapman v. Pickersgill, 2 Wils. 145.—Brown v. Chapman, 3 Burr. 1418.
+The case of Stowell v. Flagg, 11 Mass. Rep. 364, is relied upon to sustain the position, that an action at common law will not lie in the present case. In that case the mill-owner, in erecting his dam, had proceeded according to the directions of the statute, and the question before the Court was, what remedy remained to the owner of the soil for damages done by means of a dam lawfully erected? The Court decided that the plaintiff’s remedy was by complaint to the Court of common pleas, pursuant to the provisions of the statute; that the defendant having done what he was authorized by law to do, had committed no tort; and that an action on the case according to the common law, which pre-supposes a tort, could not be' maintained. The same Court in Johnson v. Kittredge et al. 17 Mass. Rep. 76, referring to Stowell v. Flagg, says, that a common law remedy is taken away only in cases when the mill-owner can justify himself under the statute. The case of Stowell v. Flagg, therefore, does not at all clash with the general principles above laid down.
+J. S. Newman and C. B. Smith, for the plaintiff.
+J. Perry, for the defendant.
+The -Circuit Court erred in overruling the demurrers to defendant’s pleas.
+Per Curiam.
+The judgment is reversed, and the proceedings subsequent to the joinder in demurrer set aside, with .costs. Cause remanded, &c.
+But see Stat. 1842, p. 158.
